@@ -1,6 +1,7 @@
 {
   "deconstruction_planner": {
     "item": "deconstruction-planner",
+    "label": "trees/rocks only",
     "settings": {
       "trees_and_rocks_only": true
     },

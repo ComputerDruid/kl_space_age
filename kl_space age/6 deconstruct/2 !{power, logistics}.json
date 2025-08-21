@@ -1,54 +1,44 @@
 {
   "deconstruction_planner": {
     "item": "deconstruction-planner",
+    "label": "!{power, logistics}",
     "settings": {
+      "entity_filter_mode": 1,
       "entity_filters": [
         {
           "comparator": "=",
           "index": 0,
-          "name": "stone-wall",
+          "name": "small-electric-pole",
           "quality": "normal"
         },
         {
           "comparator": "=",
           "index": 1,
-          "name": "gun-turret",
-          "quality": "normal"
-        },
-        {
-          "comparator": "=",
-          "index": 2,
-          "name": "laser-turret",
-          "quality": "normal"
-        },
-        {
-          "comparator": "=",
-          "index": 3,
-          "name": "transport-belt",
-          "quality": "normal"
-        },
-        {
-          "comparator": "=",
-          "index": 4,
-          "name": "inserter",
-          "quality": "normal"
-        },
-        {
-          "comparator": "=",
-          "index": 5,
           "name": "medium-electric-pole",
           "quality": "normal"
         },
         {
           "comparator": "=",
-          "index": 6,
+          "index": 2,
+          "name": "big-electric-pole",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 3,
           "name": "substation",
           "quality": "normal"
         },
         {
           "comparator": "=",
-          "index": 7,
-          "name": "underground-belt",
+          "index": 20,
+          "name": "roboport",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 21,
+          "name": "radar",
           "quality": "normal"
         }
       ],
@@ -56,5 +46,5 @@
     },
     "version": 562949957353472
   },
-  "index": 3
+  "index": 2
 }

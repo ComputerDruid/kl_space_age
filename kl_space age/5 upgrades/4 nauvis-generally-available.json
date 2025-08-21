@@ -22,19 +22,6 @@
         {
           "from": {
             "comparator": "=",
-            "name": "inserter",
-            "quality": "normal",
-            "type": "entity"
-          },
-          "index": 1,
-          "to": {
-            "name": "bulk-inserter",
-            "type": "entity"
-          }
-        },
-        {
-          "from": {
-            "comparator": "=",
             "name": "transport-belt",
             "quality": "normal",
             "type": "entity"
