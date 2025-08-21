@@ -62,19 +62,6 @@
         {
           "from": {
             "comparator": "=",
-            "name": "fast-inserter",
-            "quality": "normal",
-            "type": "entity"
-          },
-          "index": 5,
-          "to": {
-            "name": "bulk-inserter",
-            "type": "entity"
-          }
-        },
-        {
-          "from": {
-            "comparator": "=",
             "name": "splitter",
             "quality": "normal",
             "type": "entity"
@@ -161,7 +148,7 @@
           },
           "index": 12,
           "to": {
-            "name": "quality-module-2",
+            "name": "quality-module-3",
             "quality": "uncommon",
             "type": "item"
           }
@@ -188,7 +175,7 @@
           },
           "index": 16,
           "to": {
-            "name": "quality-module-2",
+            "name": "quality-module-3",
             "quality": "uncommon",
             "type": "item"
           }
@@ -242,7 +229,7 @@
           },
           "index": 20,
           "to": {
-            "name": "quality-module-2",
+            "name": "quality-module-3",
             "quality": "uncommon",
             "type": "item"
           }
@@ -291,6 +278,20 @@
         {
           "from": {
             "comparator": "=",
+            "name": "quality-module",
+            "quality": "uncommon",
+            "type": "item"
+          },
+          "index": 24,
+          "to": {
+            "name": "quality-module-3",
+            "quality": "uncommon",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
             "name": "chemical-plant",
             "quality": "normal",
             "type": "entity"
@@ -312,6 +313,20 @@
           "index": 26,
           "to": {
             "name": "speed-module-3",
+            "quality": "uncommon",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "quality-module-2",
+            "quality": "uncommon",
+            "type": "item"
+          },
+          "index": 28,
+          "to": {
+            "name": "quality-module-3",
             "quality": "uncommon",
             "type": "item"
           }
@@ -342,6 +357,19 @@
             "name": "speed-module-3",
             "quality": "uncommon",
             "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "fast-inserter",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 33,
+          "to": {
+            "name": "bulk-inserter",
+            "type": "entity"
           }
         },
         {
