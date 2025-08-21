@@ -161,7 +161,8 @@
           },
           "index": 12,
           "to": {
-            "name": "quality-module-3",
+            "name": "quality-module-2",
+            "quality": "uncommon",
             "type": "item"
           }
         },
@@ -174,7 +175,7 @@
           },
           "index": 13,
           "to": {
-            "name": "productivity-module-2",
+            "name": "productivity-module-3",
             "type": "item"
           }
         },
@@ -187,7 +188,21 @@
           },
           "index": 16,
           "to": {
-            "name": "quality-module-3",
+            "name": "quality-module-2",
+            "quality": "uncommon",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "productivity-module-2",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 17,
+          "to": {
+            "name": "productivity-module-3",
             "type": "item"
           }
         },
@@ -221,6 +236,20 @@
         {
           "from": {
             "comparator": "=",
+            "name": "quality-module-3",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 20,
+          "to": {
+            "name": "quality-module-2",
+            "quality": "uncommon",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
             "name": "efficiency-module-2",
             "quality": "normal",
             "type": "item"
@@ -229,6 +258,20 @@
           "to": {
             "name": "efficiency-module-3",
             "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "chemical-plant",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 25,
+          "to": {
+            "name": "chemical-plant",
+            "quality": "uncommon",
+            "type": "entity"
           }
         },
         {
