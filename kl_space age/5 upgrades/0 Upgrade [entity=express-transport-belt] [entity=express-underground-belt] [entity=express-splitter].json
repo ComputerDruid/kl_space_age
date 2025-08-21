@@ -13,7 +13,7 @@
           },
           "index": 0,
           "to": {
-            "name": "fast-transport-belt",
+            "name": "express-transport-belt",
             "type": "entity"
           }
         },
@@ -33,26 +33,13 @@
         {
           "from": {
             "comparator": "=",
-            "name": "express-transport-belt",
-            "quality": "normal",
-            "type": "entity"
-          },
-          "index": 2,
-          "to": {
-            "name": "turbo-transport-belt",
-            "type": "entity"
-          }
-        },
-        {
-          "from": {
-            "comparator": "=",
             "name": "underground-belt",
             "quality": "normal",
             "type": "entity"
           },
           "index": 4,
           "to": {
-            "name": "fast-underground-belt",
+            "name": "express-underground-belt",
             "type": "entity"
           }
         },
@@ -72,26 +59,13 @@
         {
           "from": {
             "comparator": "=",
-            "name": "express-underground-belt",
-            "quality": "normal",
-            "type": "entity"
-          },
-          "index": 6,
-          "to": {
-            "name": "turbo-underground-belt",
-            "type": "entity"
-          }
-        },
-        {
-          "from": {
-            "comparator": "=",
             "name": "splitter",
             "quality": "normal",
             "type": "entity"
           },
           "index": 8,
           "to": {
-            "name": "fast-splitter",
+            "name": "express-splitter",
             "type": "entity"
           }
         },
@@ -105,19 +79,6 @@
           "index": 9,
           "to": {
             "name": "express-splitter",
-            "type": "entity"
-          }
-        },
-        {
-          "from": {
-            "comparator": "=",
-            "name": "express-splitter",
-            "quality": "normal",
-            "type": "entity"
-          },
-          "index": 10,
-          "to": {
-            "name": "turbo-splitter",
             "type": "entity"
           }
         }

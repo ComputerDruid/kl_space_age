@@ -46,19 +46,6 @@
         {
           "from": {
             "comparator": "=",
-            "name": "transport-belt",
-            "quality": "normal",
-            "type": "entity"
-          },
-          "index": 3,
-          "to": {
-            "name": "fast-transport-belt",
-            "type": "entity"
-          }
-        },
-        {
-          "from": {
-            "comparator": "=",
             "name": "fast-inserter",
             "quality": "normal",
             "type": "entity"
@@ -79,32 +66,6 @@
           "index": 5,
           "to": {
             "name": "assembling-machine-3",
-            "type": "entity"
-          }
-        },
-        {
-          "from": {
-            "comparator": "=",
-            "name": "splitter",
-            "quality": "normal",
-            "type": "entity"
-          },
-          "index": 7,
-          "to": {
-            "name": "fast-splitter",
-            "type": "entity"
-          }
-        },
-        {
-          "from": {
-            "comparator": "=",
-            "name": "underground-belt",
-            "quality": "normal",
-            "type": "entity"
-          },
-          "index": 11,
-          "to": {
-            "name": "fast-underground-belt",
             "type": "entity"
           }
         }
