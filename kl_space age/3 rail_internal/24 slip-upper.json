@@ -6,8 +6,8 @@
         "entity_number": 1,
         "name": "rail-signal",
         "position": {
-          "x": 1022.5,
-          "y": -230.5
+          "x": -157.5,
+          "y": -558.5
         }
       },
       {
@@ -15,8 +15,8 @@
         "entity_number": 2,
         "name": "rail-chain-signal",
         "position": {
-          "x": 1027.5,
-          "y": -230.5
+          "x": -152.5,
+          "y": -558.5
         }
       },
       {
@@ -24,8 +24,8 @@
         "entity_number": 3,
         "name": "rail-signal",
         "position": {
-          "x": 1064.5,
-          "y": -230.5
+          "x": -115.5,
+          "y": -558.5
         }
       },
       {
@@ -33,8 +33,8 @@
         "entity_number": 4,
         "name": "rail-chain-signal",
         "position": {
-          "x": 1069.5,
-          "y": -230.5
+          "x": -110.5,
+          "y": -558.5
         }
       },
       {
@@ -42,8 +42,8 @@
         "entity_number": 5,
         "name": "curved-rail-a",
         "position": {
-          "x": 984,
-          "y": -229
+          "x": -196,
+          "y": -557
         }
       },
       {
@@ -51,8 +51,8 @@
         "entity_number": 6,
         "name": "straight-rail",
         "position": {
-          "x": 987,
-          "y": -229
+          "x": -193,
+          "y": -557
         }
       },
       {
@@ -60,8 +60,8 @@
         "entity_number": 7,
         "name": "straight-rail",
         "position": {
-          "x": 989,
-          "y": -229
+          "x": -191,
+          "y": -557
         }
       },
       {
@@ -69,8 +69,8 @@
         "entity_number": 8,
         "name": "straight-rail",
         "position": {
-          "x": 991,
-          "y": -229
+          "x": -189,
+          "y": -557
         }
       },
       {
@@ -78,8 +78,8 @@
         "entity_number": 9,
         "name": "straight-rail",
         "position": {
-          "x": 993,
-          "y": -229
+          "x": -187,
+          "y": -557
         }
       },
       {
@@ -87,8 +87,8 @@
         "entity_number": 10,
         "name": "straight-rail",
         "position": {
-          "x": 995,
-          "y": -229
+          "x": -185,
+          "y": -557
         }
       },
       {
@@ -96,8 +96,8 @@
         "entity_number": 11,
         "name": "straight-rail",
         "position": {
-          "x": 997,
-          "y": -229
+          "x": -183,
+          "y": -557
         }
       },
       {
@@ -105,8 +105,8 @@
         "entity_number": 12,
         "name": "straight-rail",
         "position": {
-          "x": 999,
-          "y": -229
+          "x": -181,
+          "y": -557
         }
       },
       {
@@ -114,8 +114,8 @@
         "entity_number": 13,
         "name": "straight-rail",
         "position": {
-          "x": 1001,
-          "y": -229
+          "x": -179,
+          "y": -557
         }
       },
       {
@@ -123,8 +123,8 @@
         "entity_number": 14,
         "name": "straight-rail",
         "position": {
-          "x": 1003,
-          "y": -229
+          "x": -177,
+          "y": -557
         }
       },
       {
@@ -132,8 +132,8 @@
         "entity_number": 15,
         "name": "straight-rail",
         "position": {
-          "x": 1005,
-          "y": -229
+          "x": -175,
+          "y": -557
         }
       },
       {
@@ -141,8 +141,8 @@
         "entity_number": 16,
         "name": "straight-rail",
         "position": {
-          "x": 1007,
-          "y": -229
+          "x": -173,
+          "y": -557
         }
       },
       {
@@ -150,8 +150,8 @@
         "entity_number": 17,
         "name": "straight-rail",
         "position": {
-          "x": 1009,
-          "y": -229
+          "x": -171,
+          "y": -557
         }
       },
       {
@@ -159,8 +159,8 @@
         "entity_number": 18,
         "name": "straight-rail",
         "position": {
-          "x": 1011,
-          "y": -229
+          "x": -169,
+          "y": -557
         }
       },
       {
@@ -168,8 +168,8 @@
         "entity_number": 19,
         "name": "straight-rail",
         "position": {
-          "x": 1013,
-          "y": -229
+          "x": -167,
+          "y": -557
         }
       },
       {
@@ -177,8 +177,8 @@
         "entity_number": 20,
         "name": "straight-rail",
         "position": {
-          "x": 1015,
-          "y": -229
+          "x": -165,
+          "y": -557
         }
       },
       {
@@ -186,8 +186,8 @@
         "entity_number": 21,
         "name": "straight-rail",
         "position": {
-          "x": 1017,
-          "y": -229
+          "x": -163,
+          "y": -557
         }
       },
       {
@@ -195,8 +195,8 @@
         "entity_number": 22,
         "name": "straight-rail",
         "position": {
-          "x": 1019,
-          "y": -229
+          "x": -161,
+          "y": -557
         }
       },
       {
@@ -204,8 +204,8 @@
         "entity_number": 23,
         "name": "straight-rail",
         "position": {
-          "x": 1021,
-          "y": -229
+          "x": -159,
+          "y": -557
         }
       },
       {
@@ -213,8 +213,8 @@
         "entity_number": 24,
         "name": "straight-rail",
         "position": {
-          "x": 1023,
-          "y": -229
+          "x": -157,
+          "y": -557
         }
       },
       {
@@ -222,26 +222,26 @@
         "entity_number": 25,
         "name": "straight-rail",
         "position": {
-          "x": 1025,
-          "y": -229
-        }
-      },
-      {
-        "direction": 4,
-        "entity_number": 26,
-        "name": "straight-rail",
-        "position": {
-          "x": 1027,
-          "y": -229
+          "x": -155,
+          "y": -557
         }
       },
       {
         "direction": 12,
-        "entity_number": 27,
+        "entity_number": 26,
         "name": "curved-rail-a",
         "position": {
-          "x": 1026,
-          "y": -229
+          "x": -154,
+          "y": -557
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 27,
+        "name": "straight-rail",
+        "position": {
+          "x": -153,
+          "y": -557
         }
       },
       {
@@ -249,8 +249,8 @@
         "entity_number": 28,
         "name": "straight-rail",
         "position": {
-          "x": 1029,
-          "y": -229
+          "x": -151,
+          "y": -557
         }
       },
       {
@@ -258,8 +258,8 @@
         "entity_number": 29,
         "name": "straight-rail",
         "position": {
-          "x": 1031,
-          "y": -229
+          "x": -149,
+          "y": -557
         }
       },
       {
@@ -267,8 +267,8 @@
         "entity_number": 30,
         "name": "straight-rail",
         "position": {
-          "x": 1033,
-          "y": -229
+          "x": -147,
+          "y": -557
         }
       },
       {
@@ -276,8 +276,8 @@
         "entity_number": 31,
         "name": "straight-rail",
         "position": {
-          "x": 1035,
-          "y": -229
+          "x": -145,
+          "y": -557
         }
       },
       {
@@ -285,8 +285,8 @@
         "entity_number": 32,
         "name": "straight-rail",
         "position": {
-          "x": 1037,
-          "y": -229
+          "x": -143,
+          "y": -557
         }
       },
       {
@@ -294,8 +294,8 @@
         "entity_number": 33,
         "name": "straight-rail",
         "position": {
-          "x": 1039,
-          "y": -229
+          "x": -141,
+          "y": -557
         }
       },
       {
@@ -303,8 +303,8 @@
         "entity_number": 34,
         "name": "straight-rail",
         "position": {
-          "x": 1041,
-          "y": -229
+          "x": -139,
+          "y": -557
         }
       },
       {
@@ -312,8 +312,8 @@
         "entity_number": 35,
         "name": "straight-rail",
         "position": {
-          "x": 1043,
-          "y": -229
+          "x": -137,
+          "y": -557
         }
       },
       {
@@ -321,8 +321,8 @@
         "entity_number": 36,
         "name": "straight-rail",
         "position": {
-          "x": 1045,
-          "y": -229
+          "x": -135,
+          "y": -557
         }
       },
       {
@@ -330,8 +330,8 @@
         "entity_number": 37,
         "name": "straight-rail",
         "position": {
-          "x": 1047,
-          "y": -229
+          "x": -133,
+          "y": -557
         }
       },
       {
@@ -339,8 +339,8 @@
         "entity_number": 38,
         "name": "straight-rail",
         "position": {
-          "x": 1049,
-          "y": -229
+          "x": -131,
+          "y": -557
         }
       },
       {
@@ -348,8 +348,8 @@
         "entity_number": 39,
         "name": "straight-rail",
         "position": {
-          "x": 1051,
-          "y": -229
+          "x": -129,
+          "y": -557
         }
       },
       {
@@ -357,8 +357,8 @@
         "entity_number": 40,
         "name": "straight-rail",
         "position": {
-          "x": 1053,
-          "y": -229
+          "x": -127,
+          "y": -557
         }
       },
       {
@@ -366,8 +366,8 @@
         "entity_number": 41,
         "name": "straight-rail",
         "position": {
-          "x": 1055,
-          "y": -229
+          "x": -125,
+          "y": -557
         }
       },
       {
@@ -375,8 +375,8 @@
         "entity_number": 42,
         "name": "straight-rail",
         "position": {
-          "x": 1057,
-          "y": -229
+          "x": -123,
+          "y": -557
         }
       },
       {
@@ -384,8 +384,8 @@
         "entity_number": 43,
         "name": "straight-rail",
         "position": {
-          "x": 1059,
-          "y": -229
+          "x": -121,
+          "y": -557
         }
       },
       {
@@ -393,8 +393,8 @@
         "entity_number": 44,
         "name": "straight-rail",
         "position": {
-          "x": 1061,
-          "y": -229
+          "x": -119,
+          "y": -557
         }
       },
       {
@@ -402,8 +402,8 @@
         "entity_number": 45,
         "name": "straight-rail",
         "position": {
-          "x": 1063,
-          "y": -229
+          "x": -117,
+          "y": -557
         }
       },
       {
@@ -411,8 +411,8 @@
         "entity_number": 46,
         "name": "straight-rail",
         "position": {
-          "x": 1065,
-          "y": -229
+          "x": -115,
+          "y": -557
         }
       },
       {
@@ -420,8 +420,8 @@
         "entity_number": 47,
         "name": "straight-rail",
         "position": {
-          "x": 1067,
-          "y": -229
+          "x": -113,
+          "y": -557
         }
       },
       {
@@ -429,8 +429,8 @@
         "entity_number": 48,
         "name": "straight-rail",
         "position": {
-          "x": 1069,
-          "y": -229
+          "x": -111,
+          "y": -557
         }
       },
       {
@@ -438,8 +438,8 @@
         "entity_number": 49,
         "name": "curved-rail-a",
         "position": {
-          "x": 1068,
-          "y": -229
+          "x": -112,
+          "y": -557
         }
       },
       {
@@ -447,8 +447,8 @@
         "entity_number": 50,
         "name": "rail-chain-signal",
         "position": {
-          "x": 975.5,
-          "y": -226.5
+          "x": -204.5,
+          "y": -554.5
         }
       },
       {
@@ -456,8 +456,8 @@
         "entity_number": 51,
         "name": "half-diagonal-rail",
         "position": {
-          "x": 979,
-          "y": -227
+          "x": -201,
+          "y": -555
         }
       },
       {
@@ -465,8 +465,8 @@
         "entity_number": 52,
         "name": "rail-chain-signal",
         "position": {
-          "x": 1017.5,
-          "y": -226.5
+          "x": -162.5,
+          "y": -554.5
         }
       },
       {
@@ -474,8 +474,8 @@
         "entity_number": 53,
         "name": "half-diagonal-rail",
         "position": {
-          "x": 1021,
-          "y": -227
+          "x": -159,
+          "y": -555
         }
       },
       {
@@ -483,8 +483,8 @@
         "entity_number": 54,
         "name": "rail-chain-signal",
         "position": {
-          "x": 1059.5,
-          "y": -226.5
+          "x": -120.5,
+          "y": -554.5
         }
       },
       {
@@ -492,17 +492,17 @@
         "entity_number": 55,
         "name": "half-diagonal-rail",
         "position": {
-          "x": 1063,
-          "y": -227
+          "x": -117,
+          "y": -555
         }
       },
       {
         "direction": 4,
         "entity_number": 56,
-        "name": "straight-rail",
+        "name": "curved-rail-a",
         "position": {
-          "x": 973,
-          "y": -225
+          "x": -206,
+          "y": -553
         }
       },
       {
@@ -510,17 +510,17 @@
         "entity_number": 57,
         "name": "straight-rail",
         "position": {
-          "x": 975,
-          "y": -225
+          "x": -205,
+          "y": -553
         }
       },
       {
         "direction": 4,
         "entity_number": 58,
-        "name": "curved-rail-a",
+        "name": "straight-rail",
         "position": {
-          "x": 974,
-          "y": -225
+          "x": -203,
+          "y": -553
         }
       },
       {
@@ -528,8 +528,8 @@
         "entity_number": 59,
         "name": "straight-rail",
         "position": {
-          "x": 977,
-          "y": -225
+          "x": -201,
+          "y": -553
         }
       },
       {
@@ -537,8 +537,8 @@
         "entity_number": 60,
         "name": "straight-rail",
         "position": {
-          "x": 979,
-          "y": -225
+          "x": -199,
+          "y": -553
         }
       },
       {
@@ -546,8 +546,8 @@
         "entity_number": 61,
         "name": "straight-rail",
         "position": {
-          "x": 981,
-          "y": -225
+          "x": -197,
+          "y": -553
         }
       },
       {
@@ -555,8 +555,8 @@
         "entity_number": 62,
         "name": "straight-rail",
         "position": {
-          "x": 983,
-          "y": -225
+          "x": -195,
+          "y": -553
         }
       },
       {
@@ -564,8 +564,8 @@
         "entity_number": 63,
         "name": "straight-rail",
         "position": {
-          "x": 985,
-          "y": -225
+          "x": -193,
+          "y": -553
         }
       },
       {
@@ -573,8 +573,8 @@
         "entity_number": 64,
         "name": "straight-rail",
         "position": {
-          "x": 987,
-          "y": -225
+          "x": -191,
+          "y": -553
         }
       },
       {
@@ -582,8 +582,8 @@
         "entity_number": 65,
         "name": "straight-rail",
         "position": {
-          "x": 989,
-          "y": -225
+          "x": -189,
+          "y": -553
         }
       },
       {
@@ -591,8 +591,8 @@
         "entity_number": 66,
         "name": "straight-rail",
         "position": {
-          "x": 991,
-          "y": -225
+          "x": -187,
+          "y": -553
         }
       },
       {
@@ -600,8 +600,8 @@
         "entity_number": 67,
         "name": "straight-rail",
         "position": {
-          "x": 993,
-          "y": -225
+          "x": -185,
+          "y": -553
         }
       },
       {
@@ -609,8 +609,8 @@
         "entity_number": 68,
         "name": "straight-rail",
         "position": {
-          "x": 995,
-          "y": -225
+          "x": -183,
+          "y": -553
         }
       },
       {
@@ -618,8 +618,8 @@
         "entity_number": 69,
         "name": "straight-rail",
         "position": {
-          "x": 997,
-          "y": -225
+          "x": -181,
+          "y": -553
         }
       },
       {
@@ -627,8 +627,8 @@
         "entity_number": 70,
         "name": "straight-rail",
         "position": {
-          "x": 999,
-          "y": -225
+          "x": -179,
+          "y": -553
         }
       },
       {
@@ -636,8 +636,8 @@
         "entity_number": 71,
         "name": "straight-rail",
         "position": {
-          "x": 1001,
-          "y": -225
+          "x": -177,
+          "y": -553
         }
       },
       {
@@ -645,8 +645,8 @@
         "entity_number": 72,
         "name": "straight-rail",
         "position": {
-          "x": 1003,
-          "y": -225
+          "x": -175,
+          "y": -553
         }
       },
       {
@@ -654,8 +654,8 @@
         "entity_number": 73,
         "name": "straight-rail",
         "position": {
-          "x": 1005,
-          "y": -225
+          "x": -173,
+          "y": -553
         }
       },
       {
@@ -663,8 +663,8 @@
         "entity_number": 74,
         "name": "straight-rail",
         "position": {
-          "x": 1007,
-          "y": -225
+          "x": -171,
+          "y": -553
         }
       },
       {
@@ -672,8 +672,8 @@
         "entity_number": 75,
         "name": "straight-rail",
         "position": {
-          "x": 1009,
-          "y": -225
+          "x": -169,
+          "y": -553
         }
       },
       {
@@ -681,17 +681,17 @@
         "entity_number": 76,
         "name": "straight-rail",
         "position": {
-          "x": 1011,
-          "y": -225
+          "x": -167,
+          "y": -553
         }
       },
       {
         "direction": 4,
         "entity_number": 77,
-        "name": "straight-rail",
+        "name": "curved-rail-a",
         "position": {
-          "x": 1013,
-          "y": -225
+          "x": -164,
+          "y": -553
         }
       },
       {
@@ -699,8 +699,8 @@
         "entity_number": 78,
         "name": "straight-rail",
         "position": {
-          "x": 1015,
-          "y": -225
+          "x": -163,
+          "y": -553
         }
       },
       {
@@ -708,17 +708,17 @@
         "entity_number": 79,
         "name": "straight-rail",
         "position": {
-          "x": 1017,
-          "y": -225
+          "x": -161,
+          "y": -553
         }
       },
       {
         "direction": 4,
         "entity_number": 80,
-        "name": "curved-rail-a",
+        "name": "straight-rail",
         "position": {
-          "x": 1016,
-          "y": -225
+          "x": -159,
+          "y": -553
         }
       },
       {
@@ -726,8 +726,8 @@
         "entity_number": 81,
         "name": "straight-rail",
         "position": {
-          "x": 1019,
-          "y": -225
+          "x": -157,
+          "y": -553
         }
       },
       {
@@ -735,8 +735,8 @@
         "entity_number": 82,
         "name": "straight-rail",
         "position": {
-          "x": 1021,
-          "y": -225
+          "x": -155,
+          "y": -553
         }
       },
       {
@@ -744,8 +744,8 @@
         "entity_number": 83,
         "name": "straight-rail",
         "position": {
-          "x": 1023,
-          "y": -225
+          "x": -153,
+          "y": -553
         }
       },
       {
@@ -753,8 +753,8 @@
         "entity_number": 84,
         "name": "straight-rail",
         "position": {
-          "x": 1025,
-          "y": -225
+          "x": -151,
+          "y": -553
         }
       },
       {
@@ -762,8 +762,8 @@
         "entity_number": 85,
         "name": "straight-rail",
         "position": {
-          "x": 1027,
-          "y": -225
+          "x": -149,
+          "y": -553
         }
       },
       {
@@ -771,8 +771,8 @@
         "entity_number": 86,
         "name": "straight-rail",
         "position": {
-          "x": 1029,
-          "y": -225
+          "x": -147,
+          "y": -553
         }
       },
       {
@@ -780,8 +780,8 @@
         "entity_number": 87,
         "name": "straight-rail",
         "position": {
-          "x": 1031,
-          "y": -225
+          "x": -145,
+          "y": -553
         }
       },
       {
@@ -789,8 +789,8 @@
         "entity_number": 88,
         "name": "straight-rail",
         "position": {
-          "x": 1033,
-          "y": -225
+          "x": -143,
+          "y": -553
         }
       },
       {
@@ -798,8 +798,8 @@
         "entity_number": 89,
         "name": "straight-rail",
         "position": {
-          "x": 1035,
-          "y": -225
+          "x": -141,
+          "y": -553
         }
       },
       {
@@ -807,8 +807,8 @@
         "entity_number": 90,
         "name": "straight-rail",
         "position": {
-          "x": 1037,
-          "y": -225
+          "x": -139,
+          "y": -553
         }
       },
       {
@@ -816,8 +816,8 @@
         "entity_number": 91,
         "name": "straight-rail",
         "position": {
-          "x": 1039,
-          "y": -225
+          "x": -137,
+          "y": -553
         }
       },
       {
@@ -825,8 +825,8 @@
         "entity_number": 92,
         "name": "straight-rail",
         "position": {
-          "x": 1041,
-          "y": -225
+          "x": -135,
+          "y": -553
         }
       },
       {
@@ -834,8 +834,8 @@
         "entity_number": 93,
         "name": "straight-rail",
         "position": {
-          "x": 1043,
-          "y": -225
+          "x": -133,
+          "y": -553
         }
       },
       {
@@ -843,8 +843,8 @@
         "entity_number": 94,
         "name": "straight-rail",
         "position": {
-          "x": 1045,
-          "y": -225
+          "x": -131,
+          "y": -553
         }
       },
       {
@@ -852,8 +852,8 @@
         "entity_number": 95,
         "name": "straight-rail",
         "position": {
-          "x": 1047,
-          "y": -225
+          "x": -129,
+          "y": -553
         }
       },
       {
@@ -861,8 +861,8 @@
         "entity_number": 96,
         "name": "straight-rail",
         "position": {
-          "x": 1049,
-          "y": -225
+          "x": -127,
+          "y": -553
         }
       },
       {
@@ -870,35 +870,17 @@
         "entity_number": 97,
         "name": "straight-rail",
         "position": {
-          "x": 1051,
-          "y": -225
+          "x": -125,
+          "y": -553
         }
       },
       {
         "direction": 4,
         "entity_number": 98,
-        "name": "straight-rail",
-        "position": {
-          "x": 1053,
-          "y": -225
-        }
-      },
-      {
-        "direction": 4,
-        "entity_number": 99,
-        "name": "straight-rail",
-        "position": {
-          "x": 1055,
-          "y": -225
-        }
-      },
-      {
-        "direction": 4,
-        "entity_number": 100,
         "name": "curved-rail-a",
         "position": {
-          "x": 1058,
-          "y": -225
+          "x": -122,
+          "y": -553
         }
       }
     ],
