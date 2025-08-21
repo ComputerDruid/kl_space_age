@@ -1703,7 +1703,7 @@
       },
       {
         "dependent": true,
-        "formula": "p0_s",
+        "formula": "3*p0_r",
         "number": "50",
         "type": "number"
       },
