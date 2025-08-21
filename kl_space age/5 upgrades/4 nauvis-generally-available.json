@@ -161,8 +161,7 @@
           },
           "index": 12,
           "to": {
-            "name": "quality-module-2",
-            "quality": "uncommon",
+            "name": "quality-module-3",
             "type": "item"
           }
         },
@@ -188,8 +187,73 @@
           },
           "index": 16,
           "to": {
-            "name": "quality-module-2",
+            "name": "quality-module-3",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "electric-furnace",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 18,
+          "to": {
+            "name": "electric-furnace",
             "quality": "uncommon",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "efficiency-module",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 19,
+          "to": {
+            "name": "efficiency-module-3",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "efficiency-module-2",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 23,
+          "to": {
+            "name": "efficiency-module-3",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "speed-module",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 26,
+          "to": {
+            "name": "speed-module-3",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "speed-module-2",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 30,
+          "to": {
+            "name": "speed-module-3",
             "type": "item"
           }
         }
