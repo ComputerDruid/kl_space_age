@@ -1,0 +1,213 @@
+{
+  "index": 4,
+  "upgrade_planner": {
+    "item": "upgrade-planner",
+    "label": "nauvis-generally-available",
+    "settings": {
+      "mappers": [
+        {
+          "from": {
+            "comparator": "=",
+            "name": "assembling-machine-1",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 0,
+          "to": {
+            "name": "assembling-machine-3",
+            "quality": "uncommon",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "inserter",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 1,
+          "to": {
+            "name": "bulk-inserter",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "transport-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 2,
+          "to": {
+            "name": "express-transport-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "fast-transport-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 3,
+          "to": {
+            "name": "express-transport-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "assembling-machine-2",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 4,
+          "to": {
+            "name": "assembling-machine-3",
+            "quality": "uncommon",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "fast-inserter",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 5,
+          "to": {
+            "name": "bulk-inserter",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "splitter",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 6,
+          "to": {
+            "name": "express-splitter",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "fast-splitter",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 7,
+          "to": {
+            "name": "express-splitter",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "assembling-machine-3",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 8,
+          "to": {
+            "name": "assembling-machine-3",
+            "quality": "uncommon",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "beacon",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 9,
+          "to": {
+            "name": "beacon",
+            "quality": "uncommon",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "underground-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 10,
+          "to": {
+            "name": "express-underground-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "fast-underground-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 11,
+          "to": {
+            "name": "express-underground-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "quality-module",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 12,
+          "to": {
+            "name": "quality-module-2",
+            "quality": "uncommon",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "productivity-module",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 13,
+          "to": {
+            "name": "productivity-module-2",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "quality-module-2",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 16,
+          "to": {
+            "name": "quality-module-2",
+            "quality": "uncommon",
+            "type": "item"
+          }
+        }
+      ]
+    },
+    "version": 562949957353472
+  }
+}
