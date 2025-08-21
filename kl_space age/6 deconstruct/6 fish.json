@@ -1,0 +1,19 @@
+{
+  "deconstruction_planner": {
+    "item": "deconstruction-planner",
+    "label": "fish",
+    "settings": {
+      "entity_filters": [
+        {
+          "comparator": "=",
+          "index": 0,
+          "name": "fish",
+          "quality": "normal"
+        }
+      ],
+      "tile_selection_mode": 2
+    },
+    "version": 562949957353472
+  },
+  "index": 6
+}
