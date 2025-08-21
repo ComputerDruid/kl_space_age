@@ -1,0 +1,18 @@
+{
+  "deconstruction_planner": {
+    "item": "deconstruction-planner",
+    "settings": {
+      "entity_filters": [
+        {
+          "comparator": "=",
+          "index": 0,
+          "name": "entity-ghost",
+          "quality": "normal"
+        }
+      ],
+      "tile_selection_mode": 2
+    },
+    "version": 562949957353472
+  },
+  "index": 4
+}

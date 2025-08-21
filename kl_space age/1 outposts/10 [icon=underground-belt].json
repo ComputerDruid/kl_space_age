@@ -1,0 +1,101 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "direction": 4,
+        "entity_number": 1,
+        "name": "underground-belt",
+        "position": {
+          "x": 0.5,
+          "y": 1.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 4,
+        "entity_number": 2,
+        "name": "underground-belt",
+        "position": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 4,
+        "entity_number": 3,
+        "name": "underground-belt",
+        "position": {
+          "x": 5.5,
+          "y": 1.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 4,
+        "entity_number": 4,
+        "name": "underground-belt",
+        "position": {
+          "x": 5.5,
+          "y": 0.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 4,
+        "entity_number": 5,
+        "name": "underground-belt",
+        "position": {
+          "x": 0.5,
+          "y": 3.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 4,
+        "entity_number": 6,
+        "name": "underground-belt",
+        "position": {
+          "x": 0.5,
+          "y": 2.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 4,
+        "entity_number": 7,
+        "name": "underground-belt",
+        "position": {
+          "x": 5.5,
+          "y": 3.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 4,
+        "entity_number": 8,
+        "name": "underground-belt",
+        "position": {
+          "x": 5.5,
+          "y": 2.5
+        },
+        "type": "output"
+      }
+    ],
+    "icons": [
+      {
+        "index": 2,
+        "signal": {
+          "name": "underground-belt"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "snap-to-grid": {
+      "x": 6,
+      "y": 4
+    },
+    "version": 562949957353472
+  },
+  "index": 10
+}

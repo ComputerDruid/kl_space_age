@@ -1,0 +1,526 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-0"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-0"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 1,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -110.5
+        }
+      },
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-1"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-1"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 2,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -109.5
+        }
+      },
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-2"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-2"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 3,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -108.5
+        }
+      },
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-3"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-3"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 4,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -106.5
+        }
+      },
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-4"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-4"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 5,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -107.5
+        }
+      },
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-5"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-5"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 6,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -105.5
+        }
+      },
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-6"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-6"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 7,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -104.5
+        }
+      },
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-7"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-7"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 8,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -103.5
+        }
+      },
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-8"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-8"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 9,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -102.5
+        }
+      },
+      {
+        "alert_parameters": {
+          "alert_message": "logistics request unfulfilled",
+          "icon_signal_id": {
+            "name": "parameter-9"
+          },
+          "show_alert": true,
+          "show_on_map": true
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0,
+            "first_signal": {
+              "name": "parameter-9"
+            }
+          },
+          "circuit_parameters": {
+            "instrument_id": 0,
+            "note_id": 0,
+            "signal_value_is_pitch": false,
+            "stop_playing_sounds": false
+          }
+        },
+        "entity_number": 10,
+        "name": "programmable-speaker",
+        "parameters": {
+          "allow_polyphony": false,
+          "playback_mode": "local",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {
+          "x": -175.5,
+          "y": -101.5
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "programmable-speaker"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "logistics_alerting",
+    "parameters": [
+      {
+        "id": "parameter-0",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-1",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-2",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-3",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-4",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-5",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-6",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-7",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-8",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-9",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      }
+    ],
+    "version": 562949957353472,
+    "wires": [
+      [
+        1,
+        1,
+        2,
+        1
+      ],
+      [
+        2,
+        1,
+        3,
+        1
+      ],
+      [
+        3,
+        1,
+        5,
+        1
+      ],
+      [
+        4,
+        1,
+        5,
+        1
+      ],
+      [
+        4,
+        1,
+        6,
+        1
+      ],
+      [
+        6,
+        1,
+        7,
+        1
+      ],
+      [
+        7,
+        1,
+        8,
+        1
+      ],
+      [
+        8,
+        1,
+        9,
+        1
+      ],
+      [
+        9,
+        1,
+        10,
+        1
+      ]
+    ]
+  },
+  "index": 50
+}

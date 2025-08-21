@@ -1,0 +1,117 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "direction": 12,
+        "entity_number": 1,
+        "name": "transport-belt",
+        "position": {
+          "x": 153.5,
+          "y": -0.5
+        }
+      },
+      {
+        "entity_number": 2,
+        "name": "transport-belt",
+        "position": {
+          "x": 152.5,
+          "y": -0.5
+        }
+      },
+      {
+        "entity_number": 3,
+        "name": "splitter",
+        "position": {
+          "x": 153,
+          "y": 0.5
+        }
+      },
+      {
+        "entity_number": 4,
+        "name": "transport-belt",
+        "position": {
+          "x": 153.5,
+          "y": 1.5
+        }
+      },
+      {
+        "entity_number": 5,
+        "name": "transport-belt",
+        "position": {
+          "x": 152.5,
+          "y": 1.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 6,
+        "name": "fast-inserter",
+        "position": {
+          "x": 154.5,
+          "y": 1.5
+        }
+      },
+      {
+        "entity_number": 7,
+        "name": "storage-chest",
+        "position": {
+          "x": 155.5,
+          "y": 1.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 8,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 156.5,
+          "y": 1.5
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "storage-chest"
+        }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "name": "splitter"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "long term storage merge",
+    "parameters": [
+      {
+        "id": "parameter-0",
+        "name": "item",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      }
+    ],
+    "version": 562949957353472
+  },
+  "index": 36
+}

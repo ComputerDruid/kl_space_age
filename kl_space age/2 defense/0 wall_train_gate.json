@@ -1,0 +1,2563 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 1,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -232.5
+        }
+      },
+      {
+        "entity_number": 2,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -233
+        }
+      },
+      {
+        "entity_number": 3,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -232.5
+        }
+      },
+      {
+        "entity_number": 4,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -232.5
+        }
+      },
+      {
+        "entity_number": 5,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -232.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 6,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -231.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 7,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -230.5
+        }
+      },
+      {
+        "entity_number": 8,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -231.5
+        }
+      },
+      {
+        "entity_number": 9,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -230.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 10,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -231.5
+        }
+      },
+      {
+        "entity_number": 11,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -231
+        }
+      },
+      {
+        "entity_number": 12,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -231.5
+        }
+      },
+      {
+        "entity_number": 13,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -230.5
+        }
+      },
+      {
+        "entity_number": 14,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -231.5
+        }
+      },
+      {
+        "entity_number": 15,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -230.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 16,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -229.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 17,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -228.5
+        }
+      },
+      {
+        "entity_number": 18,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -229.5
+        }
+      },
+      {
+        "entity_number": 19,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -228.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 20,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -229.5
+        }
+      },
+      {
+        "entity_number": 21,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -229
+        }
+      },
+      {
+        "entity_number": 22,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -229.5
+        }
+      },
+      {
+        "entity_number": 23,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -228.5
+        }
+      },
+      {
+        "entity_number": 24,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -229.5
+        }
+      },
+      {
+        "entity_number": 25,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -228.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 26,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -227.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 27,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -226.5
+        }
+      },
+      {
+        "entity_number": 28,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -227.5
+        }
+      },
+      {
+        "entity_number": 29,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -226.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 30,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -227.5
+        }
+      },
+      {
+        "entity_number": 31,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -227
+        }
+      },
+      {
+        "entity_number": 32,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -227.5
+        }
+      },
+      {
+        "entity_number": 33,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -226.5
+        }
+      },
+      {
+        "entity_number": 34,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -227.5
+        }
+      },
+      {
+        "entity_number": 35,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -226.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 36,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -225.5
+        }
+      },
+      {
+        "entity_number": 37,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -226
+        }
+      },
+      {
+        "entity_number": 38,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -225.5
+        }
+      },
+      {
+        "entity_number": 39,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -224.5
+        }
+      },
+      {
+        "entity_number": 40,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -225.5
+        }
+      },
+      {
+        "entity_number": 41,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -224.5
+        }
+      },
+      {
+        "entity_number": 42,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -225.5
+        }
+      },
+      {
+        "entity_number": 43,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -224.5
+        }
+      },
+      {
+        "entity_number": 44,
+        "name": "roboport",
+        "position": {
+          "x": 233,
+          "y": -224
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 45,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -222.5
+        }
+      },
+      {
+        "entity_number": 46,
+        "name": "substation",
+        "position": {
+          "x": 236,
+          "y": -224
+        }
+      },
+      {
+        "entity_number": 47,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -223.5
+        }
+      },
+      {
+        "entity_number": 48,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -222.5
+        }
+      },
+      {
+        "entity_number": 49,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -223.5
+        }
+      },
+      {
+        "entity_number": 50,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -222.5
+        }
+      },
+      {
+        "entity_number": 51,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -223.5
+        }
+      },
+      {
+        "entity_number": 52,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -222.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 53,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -220.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 54,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -221.5
+        }
+      },
+      {
+        "entity_number": 55,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -222
+        }
+      },
+      {
+        "entity_number": 56,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -221.5
+        }
+      },
+      {
+        "entity_number": 57,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -220.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 58,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -220.5
+        }
+      },
+      {
+        "entity_number": 59,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -221
+        }
+      },
+      {
+        "entity_number": 60,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -220.5
+        }
+      },
+      {
+        "entity_number": 61,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -221.5
+        }
+      },
+      {
+        "entity_number": 62,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -220.5
+        }
+      },
+      {
+        "entity_number": 63,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -221.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 64,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -218.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 65,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -219.5
+        }
+      },
+      {
+        "entity_number": 66,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -219.5
+        }
+      },
+      {
+        "entity_number": 67,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -218.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 68,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -218.5
+        }
+      },
+      {
+        "entity_number": 69,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -219
+        }
+      },
+      {
+        "entity_number": 70,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -218.5
+        }
+      },
+      {
+        "entity_number": 71,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -219.5
+        }
+      },
+      {
+        "entity_number": 72,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -218.5
+        }
+      },
+      {
+        "entity_number": 73,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -219.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 74,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -216.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 75,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -217.5
+        }
+      },
+      {
+        "entity_number": 76,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -217.5
+        }
+      },
+      {
+        "entity_number": 77,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -216.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 78,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -216.5
+        }
+      },
+      {
+        "entity_number": 79,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -217
+        }
+      },
+      {
+        "entity_number": 80,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -216.5
+        }
+      },
+      {
+        "entity_number": 81,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -217.5
+        }
+      },
+      {
+        "entity_number": 82,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -216.5
+        }
+      },
+      {
+        "entity_number": 83,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -217.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 84,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -214.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 85,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -215.5
+        }
+      },
+      {
+        "entity_number": 86,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -215
+        }
+      },
+      {
+        "entity_number": 87,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -215.5
+        }
+      },
+      {
+        "entity_number": 88,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -214.5
+        }
+      },
+      {
+        "entity_number": 89,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -214.5
+        }
+      },
+      {
+        "entity_number": 90,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -215.5
+        }
+      },
+      {
+        "entity_number": 91,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -214.5
+        }
+      },
+      {
+        "entity_number": 92,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -215.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 93,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -213.5
+        }
+      },
+      {
+        "entity_number": 94,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -213.5
+        }
+      },
+      {
+        "entity_number": 95,
+        "name": "underground-belt",
+        "position": {
+          "x": 239.5,
+          "y": -212.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 12,
+        "entity_number": 96,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -213.5
+        }
+      },
+      {
+        "entity_number": 97,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -213
+        }
+      },
+      {
+        "entity_number": 98,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -212.5
+        }
+      },
+      {
+        "entity_number": 99,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -213.5
+        }
+      },
+      {
+        "entity_number": 100,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -212.5
+        }
+      },
+      {
+        "entity_number": 101,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -213.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 102,
+        "name": "straight-rail",
+        "position": {
+          "x": 223,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 103,
+        "name": "straight-rail",
+        "position": {
+          "x": 225,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 104,
+        "name": "straight-rail",
+        "position": {
+          "x": 227,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 105,
+        "name": "straight-rail",
+        "position": {
+          "x": 229,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 106,
+        "name": "straight-rail",
+        "position": {
+          "x": 231,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 107,
+        "name": "straight-rail",
+        "position": {
+          "x": 233,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 108,
+        "name": "straight-rail",
+        "position": {
+          "x": 235,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 109,
+        "name": "straight-rail",
+        "position": {
+          "x": 237,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 110,
+        "name": "straight-rail",
+        "position": {
+          "x": 239,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 111,
+        "name": "straight-rail",
+        "position": {
+          "x": 241,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 112,
+        "name": "straight-rail",
+        "position": {
+          "x": 243,
+          "y": -211
+        }
+      },
+      {
+        "entity_number": 113,
+        "name": "gate",
+        "position": {
+          "x": 243.5,
+          "y": -211.5
+        }
+      },
+      {
+        "entity_number": 114,
+        "name": "gate",
+        "position": {
+          "x": 243.5,
+          "y": -210.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 115,
+        "name": "straight-rail",
+        "position": {
+          "x": 245,
+          "y": -211
+        }
+      },
+      {
+        "entity_number": 116,
+        "name": "gate",
+        "position": {
+          "x": 244.5,
+          "y": -211.5
+        }
+      },
+      {
+        "entity_number": 117,
+        "name": "gate",
+        "position": {
+          "x": 244.5,
+          "y": -210.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 118,
+        "name": "straight-rail",
+        "position": {
+          "x": 247,
+          "y": -211
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 119,
+        "name": "straight-rail",
+        "position": {
+          "x": 249,
+          "y": -211
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 120,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -208.5
+        }
+      },
+      {
+        "entity_number": 121,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -208.5
+        }
+      },
+      {
+        "entity_number": 122,
+        "name": "underground-belt",
+        "position": {
+          "x": 239.5,
+          "y": -209.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 12,
+        "entity_number": 123,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -209.5
+        }
+      },
+      {
+        "entity_number": 124,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -209
+        }
+      },
+      {
+        "entity_number": 125,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -208.5
+        }
+      },
+      {
+        "entity_number": 126,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -209.5
+        }
+      },
+      {
+        "entity_number": 127,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -208.5
+        }
+      },
+      {
+        "entity_number": 128,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -209.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 129,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -207.5
+        }
+      },
+      {
+        "entity_number": 130,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -208
+        }
+      },
+      {
+        "entity_number": 131,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -207.5
+        }
+      },
+      {
+        "entity_number": 132,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -206.5
+        }
+      },
+      {
+        "entity_number": 133,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -206.5
+        }
+      },
+      {
+        "entity_number": 134,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -207.5
+        }
+      },
+      {
+        "entity_number": 135,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -206.5
+        }
+      },
+      {
+        "entity_number": 136,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -207.5
+        }
+      },
+      {
+        "entity_number": 137,
+        "name": "roboport",
+        "position": {
+          "x": 233,
+          "y": -206
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 138,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -204.5
+        }
+      },
+      {
+        "entity_number": 139,
+        "name": "substation",
+        "position": {
+          "x": 236,
+          "y": -206
+        }
+      },
+      {
+        "entity_number": 140,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -205.5
+        }
+      },
+      {
+        "entity_number": 141,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -204.5
+        }
+      },
+      {
+        "entity_number": 142,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -204.5
+        }
+      },
+      {
+        "entity_number": 143,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -205.5
+        }
+      },
+      {
+        "entity_number": 144,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -204.5
+        }
+      },
+      {
+        "entity_number": 145,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -205.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 146,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -203.5
+        }
+      },
+      {
+        "entity_number": 147,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -204
+        }
+      },
+      {
+        "entity_number": 148,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -203.5
+        }
+      },
+      {
+        "entity_number": 149,
+        "name": "underground-belt",
+        "position": {
+          "x": 239.5,
+          "y": -202.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 12,
+        "entity_number": 150,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -202.5
+        }
+      },
+      {
+        "entity_number": 151,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -203
+        }
+      },
+      {
+        "entity_number": 152,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -202.5
+        }
+      },
+      {
+        "entity_number": 153,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -203.5
+        }
+      },
+      {
+        "entity_number": 154,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -202.5
+        }
+      },
+      {
+        "entity_number": 155,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -203.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 156,
+        "name": "straight-rail",
+        "position": {
+          "x": 223,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 157,
+        "name": "straight-rail",
+        "position": {
+          "x": 225,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 158,
+        "name": "straight-rail",
+        "position": {
+          "x": 227,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 159,
+        "name": "straight-rail",
+        "position": {
+          "x": 229,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 160,
+        "name": "straight-rail",
+        "position": {
+          "x": 231,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 161,
+        "name": "straight-rail",
+        "position": {
+          "x": 233,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 162,
+        "name": "straight-rail",
+        "position": {
+          "x": 235,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 163,
+        "name": "straight-rail",
+        "position": {
+          "x": 237,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 164,
+        "name": "straight-rail",
+        "position": {
+          "x": 239,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 165,
+        "name": "straight-rail",
+        "position": {
+          "x": 241,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 166,
+        "name": "straight-rail",
+        "position": {
+          "x": 243,
+          "y": -201
+        }
+      },
+      {
+        "entity_number": 167,
+        "name": "gate",
+        "position": {
+          "x": 243.5,
+          "y": -201.5
+        }
+      },
+      {
+        "entity_number": 168,
+        "name": "gate",
+        "position": {
+          "x": 243.5,
+          "y": -200.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 169,
+        "name": "straight-rail",
+        "position": {
+          "x": 245,
+          "y": -201
+        }
+      },
+      {
+        "entity_number": 170,
+        "name": "gate",
+        "position": {
+          "x": 244.5,
+          "y": -201.5
+        }
+      },
+      {
+        "entity_number": 171,
+        "name": "gate",
+        "position": {
+          "x": 244.5,
+          "y": -200.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 172,
+        "name": "straight-rail",
+        "position": {
+          "x": 247,
+          "y": -201
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 173,
+        "name": "straight-rail",
+        "position": {
+          "x": 249,
+          "y": -201
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 174,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -198.5
+        }
+      },
+      {
+        "entity_number": 175,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -198.5
+        }
+      },
+      {
+        "entity_number": 176,
+        "name": "underground-belt",
+        "position": {
+          "x": 239.5,
+          "y": -199.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 12,
+        "entity_number": 177,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -198.5
+        }
+      },
+      {
+        "entity_number": 178,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -199
+        }
+      },
+      {
+        "entity_number": 179,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -198.5
+        }
+      },
+      {
+        "entity_number": 180,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -199.5
+        }
+      },
+      {
+        "entity_number": 181,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -198.5
+        }
+      },
+      {
+        "entity_number": 182,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -199.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 183,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -196.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 184,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -197.5
+        }
+      },
+      {
+        "entity_number": 185,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -197
+        }
+      },
+      {
+        "entity_number": 186,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -196.5
+        }
+      },
+      {
+        "entity_number": 187,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -197.5
+        }
+      },
+      {
+        "entity_number": 188,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -196.5
+        }
+      },
+      {
+        "entity_number": 189,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -197.5
+        }
+      },
+      {
+        "entity_number": 190,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -196.5
+        }
+      },
+      {
+        "entity_number": 191,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -197.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 192,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -194.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 193,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -195.5
+        }
+      },
+      {
+        "entity_number": 194,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -195.5
+        }
+      },
+      {
+        "entity_number": 195,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -194.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 196,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -195.5
+        }
+      },
+      {
+        "entity_number": 197,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -195
+        }
+      },
+      {
+        "entity_number": 198,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -194.5
+        }
+      },
+      {
+        "entity_number": 199,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -195.5
+        }
+      },
+      {
+        "entity_number": 200,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -194.5
+        }
+      },
+      {
+        "entity_number": 201,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -195.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 202,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -192.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 203,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -193.5
+        }
+      },
+      {
+        "entity_number": 204,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -193.5
+        }
+      },
+      {
+        "entity_number": 205,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -192.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 206,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -193.5
+        }
+      },
+      {
+        "entity_number": 207,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -193
+        }
+      },
+      {
+        "entity_number": 208,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -192.5
+        }
+      },
+      {
+        "entity_number": 209,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -193.5
+        }
+      },
+      {
+        "entity_number": 210,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -192.5
+        }
+      },
+      {
+        "entity_number": 211,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -193.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 212,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -190.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 213,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -191.5
+        }
+      },
+      {
+        "entity_number": 214,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -191.5
+        }
+      },
+      {
+        "entity_number": 215,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -190.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 216,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -191.5
+        }
+      },
+      {
+        "entity_number": 217,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -191
+        }
+      },
+      {
+        "entity_number": 218,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -190.5
+        }
+      },
+      {
+        "entity_number": 219,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -191.5
+        }
+      },
+      {
+        "entity_number": 220,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -190.5
+        }
+      },
+      {
+        "entity_number": 221,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -191.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 222,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -189.5
+        }
+      },
+      {
+        "entity_number": 223,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -190
+        }
+      },
+      {
+        "entity_number": 224,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -189.5
+        }
+      },
+      {
+        "entity_number": 225,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -188.5
+        }
+      },
+      {
+        "entity_number": 226,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -188.5
+        }
+      },
+      {
+        "entity_number": 227,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -189.5
+        }
+      },
+      {
+        "entity_number": 228,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -188.5
+        }
+      },
+      {
+        "entity_number": 229,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -189.5
+        }
+      },
+      {
+        "entity_number": 230,
+        "name": "roboport",
+        "position": {
+          "x": 233,
+          "y": -188
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 231,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -186.5
+        }
+      },
+      {
+        "entity_number": 232,
+        "name": "substation",
+        "position": {
+          "x": 236,
+          "y": -188
+        }
+      },
+      {
+        "entity_number": 233,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -187.5
+        }
+      },
+      {
+        "entity_number": 234,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -186.5
+        }
+      },
+      {
+        "entity_number": 235,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -186.5
+        }
+      },
+      {
+        "entity_number": 236,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -187.5
+        }
+      },
+      {
+        "entity_number": 237,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -186.5
+        }
+      },
+      {
+        "entity_number": 238,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -187.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 239,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -184.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 240,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -185.5
+        }
+      },
+      {
+        "entity_number": 241,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -186
+        }
+      },
+      {
+        "entity_number": 242,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -185.5
+        }
+      },
+      {
+        "entity_number": 243,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -184.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 244,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -184.5
+        }
+      },
+      {
+        "entity_number": 245,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -185
+        }
+      },
+      {
+        "entity_number": 246,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -184.5
+        }
+      },
+      {
+        "entity_number": 247,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -185.5
+        }
+      },
+      {
+        "entity_number": 248,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -184.5
+        }
+      },
+      {
+        "entity_number": 249,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -185.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 250,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -182.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 251,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -183.5
+        }
+      },
+      {
+        "entity_number": 252,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -183.5
+        }
+      },
+      {
+        "entity_number": 253,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -182.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 254,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -182.5
+        }
+      },
+      {
+        "entity_number": 255,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -183
+        }
+      },
+      {
+        "entity_number": 256,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -182.5
+        }
+      },
+      {
+        "entity_number": 257,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -183.5
+        }
+      },
+      {
+        "entity_number": 258,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -182.5
+        }
+      },
+      {
+        "entity_number": 259,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -183.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 260,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -180.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 261,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -181.5
+        }
+      },
+      {
+        "entity_number": 262,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -181.5
+        }
+      },
+      {
+        "entity_number": 263,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -180.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 264,
+        "name": "inserter",
+        "position": {
+          "x": 240.5,
+          "y": -180.5
+        }
+      },
+      {
+        "entity_number": 265,
+        "name": "gun-turret",
+        "position": {
+          "x": 242,
+          "y": -181
+        }
+      },
+      {
+        "entity_number": 266,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -180.5
+        }
+      },
+      {
+        "entity_number": 267,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -181.5
+        }
+      },
+      {
+        "entity_number": 268,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -180.5
+        }
+      },
+      {
+        "entity_number": 269,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -181.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 270,
+        "name": "small-lamp",
+        "position": {
+          "x": 236.5,
+          "y": -179.5
+        }
+      },
+      {
+        "entity_number": 271,
+        "name": "laser-turret",
+        "position": {
+          "x": 238,
+          "y": -179
+        }
+      },
+      {
+        "entity_number": 272,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -178.5
+        }
+      },
+      {
+        "entity_number": 273,
+        "name": "transport-belt",
+        "position": {
+          "x": 239.5,
+          "y": -179.5
+        }
+      },
+      {
+        "entity_number": 274,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -178.5
+        }
+      },
+      {
+        "entity_number": 275,
+        "name": "stone-wall",
+        "position": {
+          "x": 243.5,
+          "y": -179.5
+        }
+      },
+      {
+        "entity_number": 276,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -178.5
+        }
+      },
+      {
+        "entity_number": 277,
+        "name": "stone-wall",
+        "position": {
+          "x": 244.5,
+          "y": -179.5
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "rail"
+        }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "name": "roboport"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "wall_train_gate",
+    "version": 562949957353472,
+    "wires": [
+      [
+        46,
+        5,
+        139,
+        5
+      ],
+      [
+        139,
+        5,
+        232,
+        5
+      ]
+    ]
+  },
+  "index": 0
+}

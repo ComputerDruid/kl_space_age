@@ -1,0 +1,94 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "entity_number": 1,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -394,
+          "y": -285
+        }
+      },
+      {
+        "entity_number": 2,
+        "name": "roboport",
+        "position": {
+          "x": -391,
+          "y": -285
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 3,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -388,
+          "y": -285
+        }
+      },
+      {
+        "entity_number": 4,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -394,
+          "y": -175
+        }
+      },
+      {
+        "entity_number": 5,
+        "name": "roboport",
+        "position": {
+          "x": -391,
+          "y": -175
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 6,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -388,
+          "y": -175
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "roboport"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "robos_construction_connected",
+    "version": 562949957353472,
+    "wires": [
+      [
+        1,
+        5,
+        3,
+        5
+      ],
+      [
+        4,
+        5,
+        6,
+        5
+      ]
+    ]
+  },
+  "index": 44
+}

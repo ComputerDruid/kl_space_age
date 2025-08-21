@@ -1,0 +1,276 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "direction": 1,
+        "entity_number": 1,
+        "name": "rail-signal",
+        "position": {
+          "x": 257.5,
+          "y": -206.5
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 2,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 259,
+          "y": -207
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 3,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 271,
+          "y": -207
+        }
+      },
+      {
+        "direction": 9,
+        "entity_number": 4,
+        "name": "rail-signal",
+        "position": {
+          "x": 272.5,
+          "y": -207.5
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 5,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 257,
+          "y": -203
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 6,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 269,
+          "y": -203
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 7,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 255,
+          "y": -199
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 8,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 267,
+          "y": -199
+        }
+      },
+      {
+        "entity_number": 9,
+        "name": "big-electric-pole",
+        "position": {
+          "x": 260,
+          "y": -197
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 10,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 253,
+          "y": -195
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 11,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 265,
+          "y": -195
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 12,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 251,
+          "y": -191
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 13,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 263,
+          "y": -191
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 14,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 249,
+          "y": -187
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 15,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 261,
+          "y": -187
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 16,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 247,
+          "y": -183
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 17,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 259,
+          "y": -183
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 18,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 245,
+          "y": -179
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 19,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 257,
+          "y": -179
+        }
+      },
+      {
+        "entity_number": 20,
+        "name": "big-electric-pole",
+        "position": {
+          "x": 250,
+          "y": -177
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 21,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 243,
+          "y": -175
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 22,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 255,
+          "y": -175
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 23,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 241,
+          "y": -171
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 24,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 253,
+          "y": -171
+        }
+      },
+      {
+        "direction": 1,
+        "entity_number": 25,
+        "name": "rail-signal",
+        "position": {
+          "x": 237.5,
+          "y": -166.5
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 26,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 239,
+          "y": -167
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 27,
+        "name": "half-diagonal-rail",
+        "position": {
+          "x": 251,
+          "y": -167
+        }
+      },
+      {
+        "direction": 9,
+        "entity_number": 28,
+        "name": "rail-signal",
+        "position": {
+          "x": 252.5,
+          "y": -167.5
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "rail"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "half-diagonal-right",
+    "version": 562949957353472,
+    "wires": [
+      [
+        9,
+        5,
+        20,
+        5
+      ]
+    ]
+  },
+  "index": 1
+}

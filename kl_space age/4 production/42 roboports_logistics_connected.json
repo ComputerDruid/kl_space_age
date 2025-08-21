@@ -1,0 +1,48 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "entity_number": 1,
+        "name": "roboport",
+        "position": {
+          "x": -174,
+          "y": -338
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 2,
+        "name": "roboport",
+        "position": {
+          "x": -174,
+          "y": -288
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "roboport"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "roboports_logistics_connected",
+    "version": 562949957353472
+  },
+  "index": 42
+}

@@ -1,0 +1,5196 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "direction": 4,
+        "entity_number": 1,
+        "name": "straight-rail",
+        "position": {
+          "x": -125,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 2,
+        "name": "straight-rail",
+        "position": {
+          "x": -123,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 3,
+        "name": "straight-rail",
+        "position": {
+          "x": -121,
+          "y": -191
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 4,
+        "name": "curved-rail-a",
+        "position": {
+          "x": -120,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 5,
+        "name": "straight-rail",
+        "position": {
+          "x": -119,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 6,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 7,
+        "name": "straight-rail",
+        "position": {
+          "x": -115,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 8,
+        "name": "straight-rail",
+        "position": {
+          "x": -113,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 9,
+        "name": "straight-rail",
+        "position": {
+          "x": -111,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 10,
+        "name": "straight-rail",
+        "position": {
+          "x": -109,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 11,
+        "name": "straight-rail",
+        "position": {
+          "x": -107,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 12,
+        "name": "straight-rail",
+        "position": {
+          "x": -105,
+          "y": -191
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 13,
+        "name": "curved-rail-a",
+        "position": {
+          "x": -106,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 14,
+        "name": "straight-rail",
+        "position": {
+          "x": -103,
+          "y": -191
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 15,
+        "name": "curved-rail-b",
+        "position": {
+          "x": -125,
+          "y": -189
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 16,
+        "name": "curved-rail-b",
+        "position": {
+          "x": -111,
+          "y": -189
+        }
+      },
+      {
+        "direction": 3,
+        "entity_number": 17,
+        "name": "rail-chain-signal",
+        "position": {
+          "x": -111.5,
+          "y": -189.5
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 18,
+        "name": "curved-rail-b",
+        "position": {
+          "x": -115,
+          "y": -185
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 19,
+        "name": "curved-rail-a",
+        "position": {
+          "x": -117,
+          "y": -180
+        }
+      },
+      {
+        "entity_number": 20,
+        "name": "roboport",
+        "position": {
+          "x": -125,
+          "y": -178
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 21,
+        "name": "rail-signal",
+        "position": {
+          "x": -118.5,
+          "y": -176.5
+        }
+      },
+      {
+        "entity_number": 22,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -177
+        }
+      },
+      {
+        "entity_number": 23,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -114,
+          "y": -178
+        }
+      },
+      {
+        "entity_number": 24,
+        "name": "roboport",
+        "position": {
+          "x": -111,
+          "y": -178
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 25,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -175
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 26,
+        "name": "transport-belt",
+        "position": {
+          "x": -123.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 27,
+        "name": "transport-belt",
+        "position": {
+          "x": -122.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 28,
+        "name": "transport-belt",
+        "position": {
+          "x": -121.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 29,
+        "name": "transport-belt",
+        "position": {
+          "x": -120.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 30,
+        "name": "underground-belt",
+        "position": {
+          "x": -119.5,
+          "y": -173.5
+        },
+        "type": "output"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 0.7137255072593689,
+          "g": 0.13333334028720856,
+          "r": 0.3490196168422699
+        },
+        "enable_logistics_while_moving": false,
+        "entity_number": 31,
+        "items": [
+          {
+            "id": {
+              "name": "solid-fuel"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "count": 50,
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "count": 50,
+                  "inventory": 1,
+                  "stack": 1
+                },
+                {
+                  "count": 50,
+                  "inventory": 1,
+                  "stack": 2
+                }
+              ]
+            }
+          }
+        ],
+        "name": "locomotive",
+        "orientation": 0.5,
+        "position": {
+          "x": -117,
+          "y": -173
+        }
+      },
+      {
+        "entity_number": 32,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -173
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 33,
+        "name": "underground-belt",
+        "position": {
+          "x": -114.5,
+          "y": -173.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 34,
+        "name": "fast-inserter",
+        "position": {
+          "x": -114.5,
+          "y": -172.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 35,
+        "name": "transport-belt",
+        "position": {
+          "x": -112.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 36,
+        "name": "transport-belt",
+        "position": {
+          "x": -113.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 37,
+        "name": "transport-belt",
+        "position": {
+          "x": -110.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 38,
+        "name": "transport-belt",
+        "position": {
+          "x": -111.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 39,
+        "name": "transport-belt",
+        "position": {
+          "x": -108.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 40,
+        "name": "transport-belt",
+        "position": {
+          "x": -109.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 41,
+        "name": "transport-belt",
+        "position": {
+          "x": -106.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 42,
+        "name": "transport-belt",
+        "position": {
+          "x": -107.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 43,
+        "name": "transport-belt",
+        "position": {
+          "x": -104.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 44,
+        "name": "transport-belt",
+        "position": {
+          "x": -105.5,
+          "y": -173.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 45,
+        "name": "transport-belt",
+        "position": {
+          "x": -103.5,
+          "y": -173.5
+        }
+      },
+      {
+        "entity_number": 46,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -171
+        }
+      },
+      {
+        "bar": 1,
+        "entity_number": 47,
+        "name": "iron-chest",
+        "position": {
+          "x": -114.5,
+          "y": -171.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 48,
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -171.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 49,
+        "name": "small-lamp",
+        "position": {
+          "x": -120.5,
+          "y": -169.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 50,
+        "name": "small-lamp",
+        "position": {
+          "x": -118.5,
+          "y": -169.5
+        }
+      },
+      {
+        "entity_number": 51,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -119.5,
+          "y": -169.5
+        }
+      },
+      {
+        "entity_number": 52,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -169
+        }
+      },
+      {
+        "entity_number": 53,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -168.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1000,
+                  "index": 1,
+                  "max_count": 1000,
+                  "name": "rail",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "rail"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 5
+          }
+        },
+        "direction": 4,
+        "entity_number": 54,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "rail",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -168.5
+        },
+        "use_filters": true
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 55,
+        "name": "small-lamp",
+        "position": {
+          "x": -115.5,
+          "y": -169.5
+        }
+      },
+      {
+        "entity_number": 56,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -114.5,
+          "y": -169.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 57,
+        "name": "small-lamp",
+        "position": {
+          "x": -113.5,
+          "y": -169.5
+        }
+      },
+      {
+        "control_behavior": {
+          "sections": {
+            "sections": [
+              {
+                "filters": [
+                  {
+                    "comparator": "=",
+                    "count": 500,
+                    "index": 1,
+                    "name": "rail",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 5,
+                    "index": 2,
+                    "name": "train-stop",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 150,
+                    "index": 3,
+                    "name": "pipe",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 4,
+                    "name": "pipe-to-ground",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 30,
+                    "index": 5,
+                    "name": "pump",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 60,
+                    "index": 6,
+                    "name": "flamethrower-turret",
+                    "quality": "normal"
+                  }
+                ],
+                "index": 1
+              }
+            ]
+          }
+        },
+        "direction": 4,
+        "entity_number": 58,
+        "name": "constant-combinator",
+        "position": {
+          "x": -110.5,
+          "y": -169.5
+        }
+      },
+      {
+        "control_behavior": {
+          "arithmetic_conditions": {
+            "first_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "operation": "*",
+            "output_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "second_constant": -1
+          }
+        },
+        "direction": 12,
+        "entity_number": 59,
+        "name": "arithmetic-combinator",
+        "position": {
+          "x": -112,
+          "y": -169.5
+        }
+      },
+      {
+        "enable_logistics_while_moving": false,
+        "entity_number": 60,
+        "inventory": null,
+        "name": "cargo-wagon",
+        "orientation": 0.5,
+        "position": {
+          "x": -117,
+          "y": -166.00390625
+        }
+      },
+      {
+        "entity_number": 61,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -167
+        }
+      },
+      {
+        "entity_number": 62,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -166.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 300,
+                  "index": 1,
+                  "max_count": 300,
+                  "name": "pipe",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 63,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -167.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 10,
+                  "index": 1,
+                  "max_count": 10,
+                  "name": "train-stop",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "pipe"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 5
+          }
+        },
+        "direction": 4,
+        "entity_number": 64,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "pipe",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -166.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "train-stop"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 5
+          }
+        },
+        "direction": 4,
+        "entity_number": 65,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "train-stop",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -167.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 66,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -165
+        }
+      },
+      {
+        "entity_number": 67,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -164.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 60,
+                  "index": 1,
+                  "max_count": 60,
+                  "name": "pump",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "pump"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 5
+          }
+        },
+        "direction": 4,
+        "entity_number": 68,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "pump",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -164.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 69,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -165.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "pipe-to-ground",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "pipe-to-ground"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 5
+          }
+        },
+        "direction": 4,
+        "entity_number": 70,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "pipe-to-ground",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -165.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "sections": {
+            "sections": [
+              {
+                "filters": [
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 1,
+                    "name": "iron-chest",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 2,
+                    "name": "passive-provider-chest",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 3,
+                    "name": "buffer-chest",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 4,
+                    "name": "requester-chest",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 5,
+                    "index": 5,
+                    "name": "power-switch",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 6,
+                    "name": "active-provider-chest",
+                    "quality": "normal"
+                  }
+                ],
+                "index": 1
+              }
+            ]
+          }
+        },
+        "direction": 12,
+        "entity_number": 71,
+        "name": "constant-combinator",
+        "position": {
+          "x": -123.5,
+          "y": -162.5
+        }
+      },
+      {
+        "control_behavior": {
+          "arithmetic_conditions": {
+            "first_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "operation": "*",
+            "output_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "second_constant": -1
+          }
+        },
+        "direction": 4,
+        "entity_number": 72,
+        "name": "arithmetic-combinator",
+        "position": {
+          "x": -122,
+          "y": -162.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 73,
+        "name": "small-lamp",
+        "position": {
+          "x": -120.5,
+          "y": -162.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 74,
+        "name": "small-lamp",
+        "position": {
+          "x": -118.5,
+          "y": -162.5
+        }
+      },
+      {
+        "entity_number": 75,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -119.5,
+          "y": -162.5
+        }
+      },
+      {
+        "entity_number": 76,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -163
+        }
+      },
+      {
+        "entity_number": 77,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -163.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 120,
+                  "index": 1,
+                  "max_count": 120,
+                  "name": "flamethrower-turret",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "flamethrower-turret"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 5
+          }
+        },
+        "direction": 4,
+        "entity_number": 78,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "flamethrower-turret",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -163.5
+        },
+        "use_filters": true
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 79,
+        "name": "small-lamp",
+        "position": {
+          "x": -115.5,
+          "y": -162.5
+        }
+      },
+      {
+        "entity_number": 80,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -114.5,
+          "y": -162.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 81,
+        "name": "small-lamp",
+        "position": {
+          "x": -113.5,
+          "y": -162.5
+        }
+      },
+      {
+        "control_behavior": {
+          "arithmetic_conditions": {
+            "first_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "operation": "*",
+            "output_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "second_constant": -1
+          }
+        },
+        "direction": 12,
+        "entity_number": 82,
+        "name": "arithmetic-combinator",
+        "position": {
+          "x": -112,
+          "y": -162.5
+        }
+      },
+      {
+        "control_behavior": {
+          "sections": {
+            "sections": [
+              {
+                "filters": [
+                  {
+                    "comparator": "=",
+                    "count": 15,
+                    "index": 1,
+                    "name": "gate",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 450,
+                    "index": 2,
+                    "name": "transport-belt",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 30,
+                    "index": 3,
+                    "name": "arithmetic-combinator",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 30,
+                    "index": 4,
+                    "name": "constant-combinator",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 5,
+                    "name": "rail-signal",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 6,
+                    "name": "rail-chain-signal",
+                    "quality": "normal"
+                  }
+                ],
+                "index": 1
+              }
+            ]
+          }
+        },
+        "direction": 4,
+        "entity_number": 83,
+        "name": "constant-combinator",
+        "position": {
+          "x": -110.5,
+          "y": -162.5
+        }
+      },
+      {
+        "entity_number": 84,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -160.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "passive-provider-chest",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 85,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -161.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "iron-chest",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "iron-chest"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 40
+          }
+        },
+        "direction": 12,
+        "entity_number": 86,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "iron-chest",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -161.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "passive-provider-chest"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 40
+          }
+        },
+        "direction": 12,
+        "entity_number": 87,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "passive-provider-chest",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -160.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 88,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -161
+        }
+      },
+      {
+        "entity_number": 89,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -160.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 900,
+                  "index": 1,
+                  "max_count": 900,
+                  "name": "transport-belt",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 90,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -161.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 30,
+                  "index": 1,
+                  "max_count": 30,
+                  "name": "gate",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "gate"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 450
+          }
+        },
+        "direction": 4,
+        "entity_number": 91,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "gate",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -161.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "transport-belt"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 450
+          }
+        },
+        "direction": 4,
+        "entity_number": 92,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "transport-belt",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -160.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 93,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -158.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "requester-chest",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "requester-chest"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 40
+          }
+        },
+        "direction": 12,
+        "entity_number": 94,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "requester-chest",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -158.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 95,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -159.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "buffer-chest",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "buffer-chest"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 40
+          }
+        },
+        "direction": 12,
+        "entity_number": 96,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "buffer-chest",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -159.5
+        },
+        "use_filters": true
+      },
+      {
+        "enable_logistics_while_moving": false,
+        "entity_number": 97,
+        "inventory": null,
+        "name": "cargo-wagon",
+        "orientation": 0.5,
+        "position": {
+          "x": -117,
+          "y": -159
+        }
+      },
+      {
+        "entity_number": 98,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -159
+        }
+      },
+      {
+        "entity_number": 99,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -158.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 60,
+                  "index": 1,
+                  "max_count": 60,
+                  "name": "constant-combinator",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "constant-combinator"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 450
+          }
+        },
+        "direction": 4,
+        "entity_number": 100,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "constant-combinator",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -158.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 101,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -159.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 60,
+                  "index": 1,
+                  "max_count": 60,
+                  "name": "arithmetic-combinator",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "arithmetic-combinator"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 450
+          }
+        },
+        "direction": 4,
+        "entity_number": 102,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "arithmetic-combinator",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -159.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 103,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -157.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 10,
+                  "index": 1,
+                  "max_count": 10,
+                  "name": "power-switch",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 104,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -156.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "active-provider-chest",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "active-provider-chest"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 40
+          }
+        },
+        "direction": 12,
+        "entity_number": 105,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "active-provider-chest",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -156.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "power-switch"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 40
+          }
+        },
+        "direction": 12,
+        "entity_number": 106,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "power-switch",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -157.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 107,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -157
+        }
+      },
+      {
+        "entity_number": 108,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -156.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "rail-chain-signal",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "rail-chain-signal"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 450
+          }
+        },
+        "direction": 4,
+        "entity_number": 109,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "rail-chain-signal",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -156.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 110,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -157.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "rail-signal",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "rail-signal"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 450
+          }
+        },
+        "direction": 4,
+        "entity_number": 111,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "rail-signal",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -157.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "sections": {
+            "sections": [
+              {
+                "filters": [
+                  {
+                    "comparator": "=",
+                    "count": 20,
+                    "index": 1,
+                    "name": "radar",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 30,
+                    "index": 2,
+                    "name": "storage-tank",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 3,
+                    "name": "electric-mining-drill",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 15,
+                    "index": 4,
+                    "name": "pumpjack",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 5,
+                    "name": "bulk-inserter",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 60,
+                    "index": 6,
+                    "name": "long-handed-inserter",
+                    "quality": "normal"
+                  }
+                ],
+                "index": 1
+              }
+            ]
+          }
+        },
+        "direction": 12,
+        "entity_number": 112,
+        "name": "constant-combinator",
+        "position": {
+          "x": -123.5,
+          "y": -155.5
+        }
+      },
+      {
+        "control_behavior": {
+          "arithmetic_conditions": {
+            "first_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "operation": "*",
+            "output_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "second_constant": -1
+          }
+        },
+        "direction": 4,
+        "entity_number": 113,
+        "name": "arithmetic-combinator",
+        "position": {
+          "x": -122,
+          "y": -155.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 114,
+        "name": "small-lamp",
+        "position": {
+          "x": -120.5,
+          "y": -155.5
+        }
+      },
+      {
+        "entity_number": 115,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -154.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 40,
+                  "index": 1,
+                  "max_count": 40,
+                  "name": "radar",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "radar"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 30
+          }
+        },
+        "direction": 12,
+        "entity_number": 116,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "radar",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -154.5
+        },
+        "use_filters": true
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 117,
+        "name": "small-lamp",
+        "position": {
+          "x": -118.5,
+          "y": -155.5
+        }
+      },
+      {
+        "entity_number": 118,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -119.5,
+          "y": -155.5
+        }
+      },
+      {
+        "entity_number": 119,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -155
+        }
+      },
+      {
+        "entity_number": 120,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -154.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 360,
+                  "index": 1,
+                  "max_count": 360,
+                  "name": "small-lamp",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "small-lamp"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 480
+          }
+        },
+        "direction": 4,
+        "entity_number": 121,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "small-lamp",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -154.5
+        },
+        "use_filters": true
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 122,
+        "name": "small-lamp",
+        "position": {
+          "x": -115.5,
+          "y": -155.5
+        }
+      },
+      {
+        "entity_number": 123,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -114.5,
+          "y": -155.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 124,
+        "name": "small-lamp",
+        "position": {
+          "x": -113.5,
+          "y": -155.5
+        }
+      },
+      {
+        "control_behavior": {
+          "sections": {
+            "sections": [
+              {
+                "filters": [
+                  {
+                    "comparator": "=",
+                    "count": 180,
+                    "index": 1,
+                    "name": "small-lamp",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 480,
+                    "index": 2,
+                    "name": "stone-wall",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 3,
+                    "name": "gun-turret",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 4,
+                    "name": "laser-turret",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 5,
+                    "name": "underground-belt",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 6,
+                    "name": "splitter",
+                    "quality": "normal"
+                  }
+                ],
+                "index": 1
+              }
+            ]
+          }
+        },
+        "direction": 4,
+        "entity_number": 125,
+        "name": "constant-combinator",
+        "position": {
+          "x": -110.5,
+          "y": -155.5
+        }
+      },
+      {
+        "control_behavior": {
+          "arithmetic_conditions": {
+            "first_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "operation": "*",
+            "output_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "second_constant": -1
+          }
+        },
+        "direction": 12,
+        "entity_number": 126,
+        "name": "arithmetic-combinator",
+        "position": {
+          "x": -112,
+          "y": -155.5
+        }
+      },
+      {
+        "entity_number": 127,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -153.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 60,
+                  "index": 1,
+                  "max_count": 60,
+                  "name": "storage-tank",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 128,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -152.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "electric-mining-drill",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "storage-tank"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 30
+          }
+        },
+        "direction": 12,
+        "entity_number": 129,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "storage-tank",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -153.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "electric-mining-drill"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 30
+          }
+        },
+        "direction": 12,
+        "entity_number": 130,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "electric-mining-drill",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -152.5
+        },
+        "use_filters": true
+      },
+      {
+        "enable_logistics_while_moving": false,
+        "entity_number": 131,
+        "inventory": null,
+        "name": "cargo-wagon",
+        "orientation": 0.5,
+        "position": {
+          "x": -117,
+          "y": -152.00390625
+        }
+      },
+      {
+        "entity_number": 132,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -153
+        }
+      },
+      {
+        "entity_number": 133,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -152.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "gun-turret",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 134,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -153.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 960,
+                  "index": 1,
+                  "max_count": 960,
+                  "name": "stone-wall",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "stone-wall"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 480
+          }
+        },
+        "direction": 4,
+        "entity_number": 135,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "stone-wall",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -153.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "gun-turret"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 480
+          }
+        },
+        "direction": 4,
+        "entity_number": 136,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "gun-turret",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -152.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 137,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -151.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 30,
+                  "index": 1,
+                  "max_count": 30,
+                  "name": "pumpjack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 138,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -150.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "bulk-inserter",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "pumpjack"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 30
+          }
+        },
+        "direction": 12,
+        "entity_number": 139,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "pumpjack",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -151.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "bulk-inserter"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 30
+          }
+        },
+        "direction": 12,
+        "entity_number": 140,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "bulk-inserter",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -150.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 141,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -151
+        }
+      },
+      {
+        "entity_number": 142,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -150.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "underground-belt",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 143,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -151.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "laser-turret",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "laser-turret"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 480
+          }
+        },
+        "direction": 4,
+        "entity_number": 144,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "laser-turret",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -151.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "underground-belt"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 480
+          }
+        },
+        "direction": 4,
+        "entity_number": 145,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "underground-belt",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -150.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "sections": {
+            "sections": [
+              {
+                "filters": [
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 1,
+                    "name": "storage-chest",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 2,
+                    "name": "medium-electric-pole",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 3,
+                    "name": "big-electric-pole",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 40,
+                    "index": 4,
+                    "name": "substation",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 5,
+                    "name": "fast-inserter",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 6,
+                    "name": "inserter",
+                    "quality": "normal"
+                  }
+                ],
+                "index": 1
+              }
+            ]
+          }
+        },
+        "direction": 12,
+        "entity_number": 146,
+        "name": "constant-combinator",
+        "position": {
+          "x": -123.5,
+          "y": -148.5
+        }
+      },
+      {
+        "control_behavior": {
+          "arithmetic_conditions": {
+            "first_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "operation": "*",
+            "output_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "second_constant": -1
+          }
+        },
+        "direction": 4,
+        "entity_number": 147,
+        "name": "arithmetic-combinator",
+        "position": {
+          "x": -122,
+          "y": -148.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 148,
+        "name": "small-lamp",
+        "position": {
+          "x": -120.5,
+          "y": -148.5
+        }
+      },
+      {
+        "entity_number": 149,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -149.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 120,
+                  "index": 1,
+                  "max_count": 120,
+                  "name": "long-handed-inserter",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "long-handed-inserter"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 30
+          }
+        },
+        "direction": 12,
+        "entity_number": 150,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "long-handed-inserter",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -149.5
+        },
+        "use_filters": true
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 151,
+        "name": "small-lamp",
+        "position": {
+          "x": -118.5,
+          "y": -148.5
+        }
+      },
+      {
+        "entity_number": 152,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -119.5,
+          "y": -148.5
+        }
+      },
+      {
+        "entity_number": 153,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -149
+        }
+      },
+      {
+        "entity_number": 154,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -149.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "splitter",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "splitter"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 480
+          }
+        },
+        "direction": 4,
+        "entity_number": 155,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "splitter",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -149.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 156,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -114.5,
+          "y": -148.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 157,
+        "name": "small-lamp",
+        "position": {
+          "x": -115.5,
+          "y": -148.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 158,
+        "name": "small-lamp",
+        "position": {
+          "x": -113.5,
+          "y": -148.5
+        }
+      },
+      {
+        "control_behavior": {
+          "sections": {
+            "sections": [
+              {
+                "filters": [
+                  {
+                    "comparator": "=",
+                    "count": 20,
+                    "index": 1,
+                    "name": "logistic-robot",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 180,
+                    "index": 2,
+                    "name": "construction-robot",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 80,
+                    "index": 3,
+                    "name": "repair-pack",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 200,
+                    "index": 5,
+                    "name": "landfill",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 15,
+                    "index": 6,
+                    "name": "roboport",
+                    "quality": "normal"
+                  }
+                ],
+                "index": 1
+              }
+            ]
+          }
+        },
+        "direction": 4,
+        "entity_number": 159,
+        "name": "constant-combinator",
+        "position": {
+          "x": -110.5,
+          "y": -148.5
+        }
+      },
+      {
+        "control_behavior": {
+          "arithmetic_conditions": {
+            "first_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "operation": "*",
+            "output_signal": {
+              "name": "signal-each",
+              "type": "virtual"
+            },
+            "second_constant": -1
+          }
+        },
+        "direction": 12,
+        "entity_number": 160,
+        "name": "arithmetic-combinator",
+        "position": {
+          "x": -112,
+          "y": -148.5
+        }
+      },
+      {
+        "control_behavior": {
+          "sections": {
+            "sections": [
+              {
+                "filters": [
+                  {
+                    "comparator": "=",
+                    "count": 100,
+                    "index": 1,
+                    "name": "landfill",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 400,
+                    "index": 2,
+                    "name": "transport-belt",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 100,
+                    "index": 3,
+                    "name": "underground-belt",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 100,
+                    "index": 4,
+                    "name": "splitter",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 100,
+                    "index": 5,
+                    "name": "gun-turret",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 50,
+                    "index": 6,
+                    "name": "laser-turret",
+                    "quality": "normal"
+                  }
+                ],
+                "index": 1
+              }
+            ]
+          }
+        },
+        "direction": 12,
+        "entity_number": 161,
+        "name": "constant-combinator",
+        "position": {
+          "x": -103.5,
+          "y": -148.5
+        }
+      },
+      {
+        "entity_number": 162,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -146.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "medium-electric-pole",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 163,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -147.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "storage-chest",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "storage-chest"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 80
+          }
+        },
+        "direction": 12,
+        "entity_number": 164,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "storage-chest",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -147.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "medium-electric-pole"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 80
+          }
+        },
+        "direction": 12,
+        "entity_number": 165,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "medium-electric-pole",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -146.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 166,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -147
+        }
+      },
+      {
+        "entity_number": 167,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -146.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 360,
+                  "index": 1,
+                  "max_count": 360,
+                  "name": "construction-robot",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 168,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -147.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 40,
+                  "index": 1,
+                  "max_count": 40,
+                  "name": "logistic-robot",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "construction-robot"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 180
+          }
+        },
+        "direction": 4,
+        "entity_number": 169,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "construction-robot",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -146.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "logistic-robot"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 180
+          }
+        },
+        "direction": 4,
+        "entity_number": 170,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "logistic-robot",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -147.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 171,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -144.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 80,
+                  "index": 1,
+                  "max_count": 80,
+                  "name": "substation",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 172,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -145.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "big-electric-pole",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "substation"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 80
+          }
+        },
+        "direction": 12,
+        "entity_number": 173,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "substation",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -144.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "big-electric-pole"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 80
+          }
+        },
+        "direction": 12,
+        "entity_number": 174,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "big-electric-pole",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -145.5
+        },
+        "use_filters": true
+      },
+      {
+        "enable_logistics_while_moving": false,
+        "entity_number": 175,
+        "inventory": null,
+        "name": "cargo-wagon",
+        "orientation": 0.5,
+        "position": {
+          "x": -117,
+          "y": -145
+        }
+      },
+      {
+        "entity_number": 176,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -145
+        }
+      },
+      {
+        "entity_number": 177,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -145.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "repair-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "repair-pack"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 180
+          }
+        },
+        "direction": 4,
+        "entity_number": 178,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "repair-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -145.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 179,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -142.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "inserter",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 180,
+        "name": "requester-chest",
+        "position": {
+          "x": -119.5,
+          "y": -143.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 160,
+                  "index": 1,
+                  "max_count": 160,
+                  "name": "fast-inserter",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "inserter"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 80
+          }
+        },
+        "direction": 12,
+        "entity_number": 181,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "inserter",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -142.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "fast-inserter"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 80
+          }
+        },
+        "direction": 12,
+        "entity_number": 182,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "fast-inserter",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -118.5,
+          "y": -143.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 183,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -143
+        }
+      },
+      {
+        "entity_number": 184,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -143.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 400,
+                  "index": 1,
+                  "max_count": 400,
+                  "name": "landfill",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 185,
+        "name": "requester-chest",
+        "position": {
+          "x": -114.5,
+          "y": -142.5
+        },
+        "request_filters": {
+          "request_from_buffers": true,
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 30,
+                  "index": 1,
+                  "max_count": 30,
+                  "name": "roboport",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "landfill"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 180
+          }
+        },
+        "direction": 4,
+        "entity_number": 186,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "landfill",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -143.5
+        },
+        "use_filters": true
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 0,
+            "first_signal": {
+              "name": "roboport"
+            }
+          },
+          "circuit_enabled": true,
+          "logistic_condition": {
+            "comparator": "<",
+            "constant": 180
+          }
+        },
+        "direction": 4,
+        "entity_number": 187,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "roboport",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -142.5
+        },
+        "use_filters": true
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 188,
+        "name": "small-lamp",
+        "position": {
+          "x": -120.5,
+          "y": -141.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 189,
+        "name": "small-lamp",
+        "position": {
+          "x": -118.5,
+          "y": -141.5
+        }
+      },
+      {
+        "entity_number": 190,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -119.5,
+          "y": -141.5
+        }
+      },
+      {
+        "entity_number": 191,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -141
+        }
+      },
+      {
+        "entity_number": 192,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -114.5,
+          "y": -141.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 193,
+        "name": "small-lamp",
+        "position": {
+          "x": -115.5,
+          "y": -141.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 194,
+        "name": "small-lamp",
+        "position": {
+          "x": -113.5,
+          "y": -141.5
+        }
+      },
+      {
+        "control_behavior": {
+          "sections": {
+            "sections": [
+              {
+                "filters": [
+                  {
+                    "comparator": "=",
+                    "count": 50,
+                    "index": 1,
+                    "name": "passive-provider-chest",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 50,
+                    "index": 2,
+                    "name": "storage-chest",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 100,
+                    "index": 3,
+                    "name": "medium-electric-pole",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 50,
+                    "index": 4,
+                    "name": "big-electric-pole",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 150,
+                    "index": 5,
+                    "name": "fast-inserter",
+                    "quality": "normal"
+                  },
+                  {
+                    "comparator": "=",
+                    "count": 50,
+                    "index": 6,
+                    "name": "roboport",
+                    "quality": "normal"
+                  }
+                ],
+                "index": 1
+              }
+            ]
+          }
+        },
+        "direction": 12,
+        "entity_number": 195,
+        "name": "constant-combinator",
+        "position": {
+          "x": -103.5,
+          "y": -141.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 0.7137255072593689,
+          "g": 0.13333334028720856,
+          "r": 0.3490196168422699
+        },
+        "enable_logistics_while_moving": false,
+        "entity_number": 196,
+        "items": [
+          {
+            "id": {
+              "name": "solid-fuel"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "count": 50,
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "count": 50,
+                  "inventory": 1,
+                  "stack": 1
+                },
+                {
+                  "count": 50,
+                  "inventory": 1,
+                  "stack": 2
+                }
+              ]
+            }
+          }
+        ],
+        "name": "locomotive",
+        "orientation": 0.5,
+        "position": {
+          "x": -117,
+          "y": -138.00390625
+        }
+      },
+      {
+        "entity_number": 197,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -139
+        }
+      },
+      {
+        "bar": 1,
+        "entity_number": 198,
+        "name": "iron-chest",
+        "position": {
+          "x": -114.5,
+          "y": -139.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 199,
+        "name": "fast-inserter",
+        "position": {
+          "x": -114.5,
+          "y": -138.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 200,
+        "name": "fast-inserter",
+        "position": {
+          "x": -115.5,
+          "y": -139.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 201,
+        "name": "transport-belt",
+        "position": {
+          "x": -122.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 202,
+        "name": "transport-belt",
+        "position": {
+          "x": -123.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 203,
+        "name": "transport-belt",
+        "position": {
+          "x": -120.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 204,
+        "name": "transport-belt",
+        "position": {
+          "x": -121.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 205,
+        "name": "underground-belt",
+        "position": {
+          "x": -119.5,
+          "y": -137.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 206,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -137
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 207,
+        "name": "underground-belt",
+        "position": {
+          "x": -114.5,
+          "y": -137.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 12,
+        "entity_number": 208,
+        "name": "transport-belt",
+        "position": {
+          "x": -113.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 209,
+        "name": "transport-belt",
+        "position": {
+          "x": -112.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 210,
+        "name": "transport-belt",
+        "position": {
+          "x": -110.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 211,
+        "name": "transport-belt",
+        "position": {
+          "x": -111.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 212,
+        "name": "transport-belt",
+        "position": {
+          "x": -108.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 213,
+        "name": "transport-belt",
+        "position": {
+          "x": -109.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 214,
+        "name": "transport-belt",
+        "position": {
+          "x": -106.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 215,
+        "name": "transport-belt",
+        "position": {
+          "x": -107.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 216,
+        "name": "transport-belt",
+        "position": {
+          "x": -104.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 217,
+        "name": "transport-belt",
+        "position": {
+          "x": -105.5,
+          "y": -137.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 218,
+        "name": "transport-belt",
+        "position": {
+          "x": -103.5,
+          "y": -137.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 0.7137255072593689,
+          "g": 0.13333334028720856,
+          "r": 0.3490196168422699
+        },
+        "control_behavior": {
+          "read_from_train": true,
+          "send_to_train": false,
+          "train_stopped_signal": {
+            "name": "signal-T",
+            "type": "virtual"
+          }
+        },
+        "direction": 8,
+        "entity_number": 219,
+        "manual_trains_limit": 2,
+        "name": "train-stop",
+        "position": {
+          "x": -119,
+          "y": -135
+        },
+        "station": "1-4-1-wall-source-v3"
+      },
+      {
+        "entity_number": 220,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -135
+        }
+      },
+      {
+        "entity_number": 221,
+        "name": "roboport",
+        "position": {
+          "x": -125,
+          "y": -133
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 222,
+        "name": "rail-chain-signal",
+        "position": {
+          "x": -118.5,
+          "y": -133.5
+        }
+      },
+      {
+        "entity_number": 223,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -133
+        }
+      },
+      {
+        "entity_number": 224,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -114,
+          "y": -133
+        }
+      },
+      {
+        "entity_number": 225,
+        "name": "roboport",
+        "position": {
+          "x": -111,
+          "y": -133
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 226,
+        "name": "curved-rail-a",
+        "position": {
+          "x": -117,
+          "y": -130
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 227,
+        "name": "curved-rail-b",
+        "position": {
+          "x": -115,
+          "y": -125
+        }
+      },
+      {
+        "direction": 14,
+        "entity_number": 228,
+        "name": "curved-rail-b",
+        "position": {
+          "x": -125,
+          "y": -121
+        }
+      },
+      {
+        "direction": 14,
+        "entity_number": 229,
+        "name": "curved-rail-b",
+        "position": {
+          "x": -111,
+          "y": -121
+        }
+      },
+      {
+        "direction": 13,
+        "entity_number": 230,
+        "name": "rail-chain-signal",
+        "position": {
+          "x": -111.5,
+          "y": -120.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 231,
+        "name": "straight-rail",
+        "position": {
+          "x": -125,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 232,
+        "name": "straight-rail",
+        "position": {
+          "x": -123,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 233,
+        "name": "straight-rail",
+        "position": {
+          "x": -121,
+          "y": -119
+        }
+      },
+      {
+        "direction": 14,
+        "entity_number": 234,
+        "name": "curved-rail-a",
+        "position": {
+          "x": -120,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 235,
+        "name": "straight-rail",
+        "position": {
+          "x": -119,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 236,
+        "name": "straight-rail",
+        "position": {
+          "x": -117,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 237,
+        "name": "straight-rail",
+        "position": {
+          "x": -115,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 238,
+        "name": "straight-rail",
+        "position": {
+          "x": -113,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 239,
+        "name": "straight-rail",
+        "position": {
+          "x": -111,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 240,
+        "name": "straight-rail",
+        "position": {
+          "x": -109,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 241,
+        "name": "straight-rail",
+        "position": {
+          "x": -107,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 242,
+        "name": "straight-rail",
+        "position": {
+          "x": -105,
+          "y": -119
+        }
+      },
+      {
+        "direction": 14,
+        "entity_number": 243,
+        "name": "curved-rail-a",
+        "position": {
+          "x": -106,
+          "y": -119
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 244,
+        "name": "straight-rail",
+        "position": {
+          "x": -103,
+          "y": -119
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "rail"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "1-4-1-mining-outpost-depo-v3",
+    "schedules": [
+      {
+        "locomotives": [
+          31,
+          196
+        ],
+        "schedule": {
+          "group": "outposts-v3",
+          "records": [
+            {
+              "station": "1-4-1-wall-source-v3",
+              "wait_conditions": [
+                {
+                  "compare_type": "and",
+                  "ticks": 300,
+                  "type": "inactivity"
+                },
+                {
+                  "compare_type": "and",
+                  "type": "fuel_full"
+                },
+                {
+                  "compare_type": "or",
+                  "ticks": 7200,
+                  "type": "time"
+                }
+              ]
+            },
+            {
+              "station": "1-4-1-wall-sink-v3",
+              "wait_conditions": [
+                {
+                  "compare_type": "and",
+                  "ticks": 300,
+                  "type": "inactivity"
+                },
+                {
+                  "compare_type": "or",
+                  "ticks": 7200,
+                  "type": "time"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "stock_connections": [
+      {
+        "front": 60,
+        "stock": 31
+      },
+      {
+        "back": 31,
+        "front": 97,
+        "stock": 60
+      },
+      {
+        "back": 60,
+        "front": 131,
+        "stock": 97
+      },
+      {
+        "back": 97,
+        "front": 175,
+        "stock": 131
+      },
+      {
+        "back": 131,
+        "front": 196,
+        "stock": 175
+      },
+      {
+        "back": 175,
+        "stock": 196
+      }
+    ],
+    "version": 562949957353472,
+    "wires": [
+      [
+        23,
+        5,
+        56,
+        5
+      ],
+      [
+        51,
+        5,
+        56,
+        5
+      ],
+      [
+        51,
+        5,
+        75,
+        5
+      ],
+      [
+        54,
+        1,
+        56,
+        1
+      ],
+      [
+        54,
+        1,
+        65,
+        1
+      ],
+      [
+        56,
+        1,
+        59,
+        3
+      ],
+      [
+        56,
+        5,
+        80,
+        5
+      ],
+      [
+        58,
+        1,
+        59,
+        1
+      ],
+      [
+        64,
+        1,
+        65,
+        1
+      ],
+      [
+        64,
+        1,
+        70,
+        1
+      ],
+      [
+        68,
+        1,
+        70,
+        1
+      ],
+      [
+        68,
+        1,
+        78,
+        1
+      ],
+      [
+        71,
+        1,
+        72,
+        1
+      ],
+      [
+        72,
+        3,
+        75,
+        1
+      ],
+      [
+        75,
+        1,
+        86,
+        1
+      ],
+      [
+        75,
+        5,
+        80,
+        5
+      ],
+      [
+        75,
+        5,
+        118,
+        5
+      ],
+      [
+        78,
+        1,
+        80,
+        1
+      ],
+      [
+        80,
+        1,
+        82,
+        3
+      ],
+      [
+        80,
+        1,
+        91,
+        1
+      ],
+      [
+        80,
+        5,
+        123,
+        5
+      ],
+      [
+        82,
+        1,
+        83,
+        1
+      ],
+      [
+        86,
+        1,
+        87,
+        1
+      ],
+      [
+        87,
+        1,
+        96,
+        1
+      ],
+      [
+        91,
+        1,
+        92,
+        1
+      ],
+      [
+        92,
+        1,
+        102,
+        1
+      ],
+      [
+        94,
+        1,
+        96,
+        1
+      ],
+      [
+        94,
+        1,
+        106,
+        1
+      ],
+      [
+        100,
+        1,
+        102,
+        1
+      ],
+      [
+        100,
+        1,
+        111,
+        1
+      ],
+      [
+        105,
+        1,
+        106,
+        1
+      ],
+      [
+        105,
+        1,
+        118,
+        1
+      ],
+      [
+        109,
+        1,
+        111,
+        1
+      ],
+      [
+        109,
+        1,
+        123,
+        1
+      ],
+      [
+        112,
+        1,
+        113,
+        1
+      ],
+      [
+        113,
+        3,
+        118,
+        1
+      ],
+      [
+        116,
+        1,
+        118,
+        1
+      ],
+      [
+        116,
+        1,
+        129,
+        1
+      ],
+      [
+        118,
+        5,
+        123,
+        5
+      ],
+      [
+        118,
+        5,
+        152,
+        5
+      ],
+      [
+        121,
+        1,
+        123,
+        1
+      ],
+      [
+        121,
+        1,
+        135,
+        1
+      ],
+      [
+        123,
+        1,
+        126,
+        3
+      ],
+      [
+        123,
+        5,
+        156,
+        5
+      ],
+      [
+        125,
+        1,
+        126,
+        1
+      ],
+      [
+        129,
+        1,
+        130,
+        1
+      ],
+      [
+        130,
+        1,
+        139,
+        1
+      ],
+      [
+        135,
+        1,
+        136,
+        1
+      ],
+      [
+        136,
+        1,
+        144,
+        1
+      ],
+      [
+        139,
+        1,
+        140,
+        1
+      ],
+      [
+        140,
+        1,
+        150,
+        1
+      ],
+      [
+        144,
+        1,
+        145,
+        1
+      ],
+      [
+        145,
+        1,
+        155,
+        1
+      ],
+      [
+        146,
+        1,
+        147,
+        1
+      ],
+      [
+        147,
+        3,
+        152,
+        1
+      ],
+      [
+        150,
+        1,
+        152,
+        1
+      ],
+      [
+        152,
+        1,
+        164,
+        1
+      ],
+      [
+        152,
+        5,
+        156,
+        5
+      ],
+      [
+        152,
+        5,
+        190,
+        5
+      ],
+      [
+        155,
+        1,
+        156,
+        1
+      ],
+      [
+        156,
+        1,
+        160,
+        3
+      ],
+      [
+        156,
+        1,
+        170,
+        1
+      ],
+      [
+        156,
+        5,
+        192,
+        5
+      ],
+      [
+        159,
+        1,
+        160,
+        1
+      ],
+      [
+        164,
+        1,
+        165,
+        1
+      ],
+      [
+        165,
+        1,
+        174,
+        1
+      ],
+      [
+        169,
+        1,
+        170,
+        1
+      ],
+      [
+        169,
+        1,
+        178,
+        1
+      ],
+      [
+        173,
+        1,
+        174,
+        1
+      ],
+      [
+        173,
+        1,
+        182,
+        1
+      ],
+      [
+        178,
+        1,
+        186,
+        1
+      ],
+      [
+        181,
+        1,
+        182,
+        1
+      ],
+      [
+        181,
+        1,
+        190,
+        1
+      ],
+      [
+        186,
+        1,
+        187,
+        1
+      ],
+      [
+        187,
+        1,
+        192,
+        1
+      ],
+      [
+        190,
+        1,
+        192,
+        1
+      ],
+      [
+        190,
+        5,
+        192,
+        5
+      ],
+      [
+        192,
+        1,
+        219,
+        1
+      ],
+      [
+        192,
+        5,
+        224,
+        5
+      ]
+    ]
+  },
+  "index": 2
+}

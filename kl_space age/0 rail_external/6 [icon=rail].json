@@ -1,0 +1,220 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "direction": 12,
+        "entity_number": 1,
+        "name": "curved-rail-a",
+        "position": {
+          "x": 12,
+          "y": 1
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 2,
+        "name": "straight-rail",
+        "position": {
+          "x": 15,
+          "y": 1
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 3,
+        "name": "straight-rail",
+        "position": {
+          "x": 17,
+          "y": 1
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 4,
+        "name": "straight-rail",
+        "position": {
+          "x": 19,
+          "y": 1
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 5,
+        "name": "straight-rail",
+        "position": {
+          "x": 21,
+          "y": 1
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 6,
+        "name": "straight-rail",
+        "position": {
+          "x": 23,
+          "y": 1
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 7,
+        "name": "straight-rail",
+        "position": {
+          "x": 25,
+          "y": 1
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 8,
+        "name": "curved-rail-b",
+        "position": {
+          "x": 7,
+          "y": 3
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 9,
+        "name": "curved-rail-b",
+        "position": {
+          "x": 3,
+          "y": 7
+        }
+      },
+      {
+        "entity_number": 10,
+        "name": "big-electric-pole",
+        "position": {
+          "x": 10,
+          "y": 10
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 11,
+        "name": "curved-rail-a",
+        "position": {
+          "x": 22,
+          "y": 11
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 12,
+        "name": "straight-rail",
+        "position": {
+          "x": 25,
+          "y": 11
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 13,
+        "name": "curved-rail-a",
+        "position": {
+          "x": 1,
+          "y": 12
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 14,
+        "name": "curved-rail-b",
+        "position": {
+          "x": 17,
+          "y": 13
+        }
+      },
+      {
+        "entity_number": 15,
+        "name": "straight-rail",
+        "position": {
+          "x": 1,
+          "y": 15
+        }
+      },
+      {
+        "entity_number": 16,
+        "name": "straight-rail",
+        "position": {
+          "x": 1,
+          "y": 17
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 17,
+        "name": "curved-rail-b",
+        "position": {
+          "x": 13,
+          "y": 17
+        }
+      },
+      {
+        "entity_number": 18,
+        "name": "straight-rail",
+        "position": {
+          "x": 1,
+          "y": 19
+        }
+      },
+      {
+        "entity_number": 19,
+        "name": "straight-rail",
+        "position": {
+          "x": 1,
+          "y": 21
+        }
+      },
+      {
+        "entity_number": 20,
+        "name": "straight-rail",
+        "position": {
+          "x": 1,
+          "y": 23
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 21,
+        "name": "curved-rail-a",
+        "position": {
+          "x": 11,
+          "y": 22
+        }
+      },
+      {
+        "entity_number": 22,
+        "name": "straight-rail",
+        "position": {
+          "x": 1,
+          "y": 25
+        }
+      },
+      {
+        "entity_number": 23,
+        "name": "straight-rail",
+        "position": {
+          "x": 11,
+          "y": 25
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "rail"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "snap-to-grid": {
+      "x": 26,
+      "y": 26
+    },
+    "version": 562949957353472
+  },
+  "index": 6
+}

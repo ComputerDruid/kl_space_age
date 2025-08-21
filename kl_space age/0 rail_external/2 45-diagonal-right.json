@@ -1,0 +1,366 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "direction": 2,
+        "entity_number": 1,
+        "name": "rail-signal",
+        "position": {
+          "x": 226.5,
+          "y": -178.5
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 2,
+        "name": "straight-rail",
+        "position": {
+          "x": 228,
+          "y": -178
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 3,
+        "name": "straight-rail",
+        "position": {
+          "x": 244,
+          "y": -178
+        }
+      },
+      {
+        "direction": 10,
+        "entity_number": 4,
+        "name": "rail-signal",
+        "position": {
+          "x": 245.5,
+          "y": -177.5
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 5,
+        "name": "straight-rail",
+        "position": {
+          "x": 226,
+          "y": -176
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 6,
+        "name": "straight-rail",
+        "position": {
+          "x": 242,
+          "y": -176
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 7,
+        "name": "straight-rail",
+        "position": {
+          "x": 224,
+          "y": -174
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 8,
+        "name": "straight-rail",
+        "position": {
+          "x": 240,
+          "y": -174
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 9,
+        "name": "straight-rail",
+        "position": {
+          "x": 222,
+          "y": -172
+        }
+      },
+      {
+        "entity_number": 10,
+        "name": "big-electric-pole",
+        "position": {
+          "x": 229,
+          "y": -171
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 11,
+        "name": "straight-rail",
+        "position": {
+          "x": 238,
+          "y": -172
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 12,
+        "name": "straight-rail",
+        "position": {
+          "x": 220,
+          "y": -170
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 13,
+        "name": "straight-rail",
+        "position": {
+          "x": 236,
+          "y": -170
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 14,
+        "name": "straight-rail",
+        "position": {
+          "x": 218,
+          "y": -168
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 15,
+        "name": "straight-rail",
+        "position": {
+          "x": 234,
+          "y": -168
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 16,
+        "name": "straight-rail",
+        "position": {
+          "x": 216,
+          "y": -166
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 17,
+        "name": "straight-rail",
+        "position": {
+          "x": 232,
+          "y": -166
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 18,
+        "name": "straight-rail",
+        "position": {
+          "x": 214,
+          "y": -164
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 19,
+        "name": "straight-rail",
+        "position": {
+          "x": 230,
+          "y": -164
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 20,
+        "name": "straight-rail",
+        "position": {
+          "x": 212,
+          "y": -162
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 21,
+        "name": "straight-rail",
+        "position": {
+          "x": 228,
+          "y": -162
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 22,
+        "name": "straight-rail",
+        "position": {
+          "x": 210,
+          "y": -160
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 23,
+        "name": "straight-rail",
+        "position": {
+          "x": 226,
+          "y": -160
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 24,
+        "name": "straight-rail",
+        "position": {
+          "x": 208,
+          "y": -158
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 25,
+        "name": "straight-rail",
+        "position": {
+          "x": 224,
+          "y": -158
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 26,
+        "name": "straight-rail",
+        "position": {
+          "x": 206,
+          "y": -156
+        }
+      },
+      {
+        "entity_number": 27,
+        "name": "big-electric-pole",
+        "position": {
+          "x": 213,
+          "y": -155
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 28,
+        "name": "straight-rail",
+        "position": {
+          "x": 222,
+          "y": -156
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 29,
+        "name": "straight-rail",
+        "position": {
+          "x": 204,
+          "y": -154
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 30,
+        "name": "straight-rail",
+        "position": {
+          "x": 220,
+          "y": -154
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 31,
+        "name": "straight-rail",
+        "position": {
+          "x": 202,
+          "y": -152
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 32,
+        "name": "straight-rail",
+        "position": {
+          "x": 218,
+          "y": -152
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 33,
+        "name": "rail-signal",
+        "position": {
+          "x": 196.5,
+          "y": -148.5
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 34,
+        "name": "straight-rail",
+        "position": {
+          "x": 200,
+          "y": -150
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 35,
+        "name": "straight-rail",
+        "position": {
+          "x": 216,
+          "y": -150
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 36,
+        "name": "straight-rail",
+        "position": {
+          "x": 198,
+          "y": -148
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 37,
+        "name": "straight-rail",
+        "position": {
+          "x": 214,
+          "y": -148
+        }
+      },
+      {
+        "direction": 10,
+        "entity_number": 38,
+        "name": "rail-signal",
+        "position": {
+          "x": 215.5,
+          "y": -147.5
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "rail"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "45-diagonal-right",
+    "version": 562949957353472,
+    "wires": [
+      [
+        10,
+        5,
+        27,
+        5
+      ]
+    ]
+  },
+  "index": 2
+}

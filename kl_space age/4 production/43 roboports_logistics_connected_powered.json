@@ -1,0 +1,114 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "entity_number": 1,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -174,
+          "y": -341
+        }
+      },
+      {
+        "entity_number": 2,
+        "name": "roboport",
+        "position": {
+          "x": -174,
+          "y": -338
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 3,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -174,
+          "y": -335
+        }
+      },
+      {
+        "entity_number": 4,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -174,
+          "y": -313
+        }
+      },
+      {
+        "entity_number": 5,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -174,
+          "y": -291
+        }
+      },
+      {
+        "entity_number": 6,
+        "name": "roboport",
+        "position": {
+          "x": -174,
+          "y": -288
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 7,
+        "name": "big-electric-pole",
+        "position": {
+          "x": -174,
+          "y": -285
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "roboport"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "roboports_logistics_connected_powered",
+    "version": 562949957353472,
+    "wires": [
+      [
+        1,
+        5,
+        3,
+        5
+      ],
+      [
+        3,
+        5,
+        4,
+        5
+      ],
+      [
+        4,
+        5,
+        5,
+        5
+      ],
+      [
+        5,
+        5,
+        7,
+        5
+      ]
+    ]
+  },
+  "index": 43
+}

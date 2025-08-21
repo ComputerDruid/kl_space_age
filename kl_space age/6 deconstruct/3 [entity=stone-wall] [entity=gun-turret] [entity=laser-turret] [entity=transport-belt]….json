@@ -1,0 +1,60 @@
+{
+  "deconstruction_planner": {
+    "item": "deconstruction-planner",
+    "settings": {
+      "entity_filters": [
+        {
+          "comparator": "=",
+          "index": 0,
+          "name": "stone-wall",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 1,
+          "name": "gun-turret",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 2,
+          "name": "laser-turret",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 3,
+          "name": "transport-belt",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 4,
+          "name": "inserter",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 5,
+          "name": "medium-electric-pole",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 6,
+          "name": "substation",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 7,
+          "name": "underground-belt",
+          "quality": "normal"
+        }
+      ],
+      "tile_selection_mode": 2
+    },
+    "version": 562949957353472
+  },
+  "index": 3
+}

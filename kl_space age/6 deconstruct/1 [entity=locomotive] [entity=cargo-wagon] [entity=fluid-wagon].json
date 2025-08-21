@@ -1,0 +1,30 @@
+{
+  "deconstruction_planner": {
+    "item": "deconstruction-planner",
+    "settings": {
+      "entity_filters": [
+        {
+          "comparator": "=",
+          "index": 0,
+          "name": "locomotive",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 1,
+          "name": "cargo-wagon",
+          "quality": "normal"
+        },
+        {
+          "comparator": "=",
+          "index": 2,
+          "name": "fluid-wagon",
+          "quality": "normal"
+        }
+      ],
+      "tile_selection_mode": 2
+    },
+    "version": 562949957353472
+  },
+  "index": 1
+}

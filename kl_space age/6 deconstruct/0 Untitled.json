@@ -1,0 +1,10 @@
+{
+  "deconstruction_planner": {
+    "item": "deconstruction-planner",
+    "settings": {
+      "trees_and_rocks_only": true
+    },
+    "version": 562949957353472
+  },
+  "index": 0
+}

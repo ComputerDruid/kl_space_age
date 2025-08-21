@@ -1,0 +1,104 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "control_behavior": {
+          "circuit_condition_enabled": false
+        },
+        "entity_number": 1,
+        "name": "storage-chest",
+        "position": {
+          "x": -183.5,
+          "y": -102.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 20,
+            "first_signal": {
+              "name": "parameter-0"
+            }
+          },
+          "circuit_enabled": true
+        },
+        "direction": 8,
+        "entity_number": 2,
+        "name": "fast-inserter",
+        "position": {
+          "x": -183.5,
+          "y": -101.5
+        }
+      },
+      {
+        "entity_number": 3,
+        "name": "assembling-machine-2",
+        "position": {
+          "x": -182.5,
+          "y": -99.5
+        },
+        "recipe": "parameter-0",
+        "recipe_quality": "normal"
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "storage-chest"
+        }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "name": "assembling-machine-2"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "mall",
+    "parameters": [
+      {
+        "id": "parameter-0",
+        "name": "item",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "name": "count",
+        "number": "20",
+        "type": "number"
+      }
+    ],
+    "version": 562949957353472,
+    "wires": [
+      [
+        1,
+        1,
+        2,
+        1
+      ]
+    ]
+  },
+  "index": 1
+}

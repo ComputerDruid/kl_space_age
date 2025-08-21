@@ -1,0 +1,89 @@
+{
+  "index": 0,
+  "upgrade_planner": {
+    "item": "upgrade-planner",
+    "settings": {
+      "mappers": [
+        {
+          "from": {
+            "comparator": "=",
+            "name": "transport-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 0,
+          "to": {
+            "name": "fast-transport-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "fast-transport-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 1,
+          "to": {
+            "name": "express-transport-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "underground-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 4,
+          "to": {
+            "name": "fast-underground-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "fast-underground-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 5,
+          "to": {
+            "name": "express-underground-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "splitter",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 8,
+          "to": {
+            "name": "fast-splitter",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "fast-splitter",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 9,
+          "to": {
+            "name": "express-splitter",
+            "type": "entity"
+          }
+        }
+      ]
+    },
+    "version": 562949957353472
+  }
+}
