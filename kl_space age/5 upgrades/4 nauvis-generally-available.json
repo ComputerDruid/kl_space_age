@@ -250,6 +250,34 @@
         {
           "from": {
             "comparator": "=",
+            "name": "oil-refinery",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 21,
+          "to": {
+            "name": "oil-refinery",
+            "quality": "uncommon",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "speed-module",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 22,
+          "to": {
+            "name": "speed-module-3",
+            "quality": "uncommon",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
             "name": "efficiency-module-2",
             "quality": "normal",
             "type": "item"
@@ -277,13 +305,56 @@
         {
           "from": {
             "comparator": "=",
-            "name": "speed-module",
+            "name": "speed-module-2",
             "quality": "normal",
             "type": "item"
           },
           "index": 26,
           "to": {
             "name": "speed-module-3",
+            "quality": "uncommon",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "roboport",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 29,
+          "to": {
+            "name": "roboport",
+            "quality": "uncommon",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "speed-module-3",
+            "quality": "normal",
+            "type": "item"
+          },
+          "index": 30,
+          "to": {
+            "name": "speed-module-3",
+            "quality": "uncommon",
+            "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "speed-module",
+            "quality": "uncommon",
+            "type": "item"
+          },
+          "index": 34,
+          "to": {
+            "name": "speed-module-3",
+            "quality": "uncommon",
             "type": "item"
           }
         },
@@ -291,12 +362,13 @@
           "from": {
             "comparator": "=",
             "name": "speed-module-2",
-            "quality": "normal",
+            "quality": "uncommon",
             "type": "item"
           },
-          "index": 30,
+          "index": 38,
           "to": {
             "name": "speed-module-3",
+            "quality": "uncommon",
             "type": "item"
           }
         }
