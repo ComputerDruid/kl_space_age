@@ -1,0 +1,226 @@
+{
+  "index": 3,
+  "upgrade_planner": {
+    "item": "upgrade-planner",
+    "label": "prod QM insertion / strictly better upgrades",
+    "settings": {
+      "mappers": [
+        {
+          "from": {
+            "comparator": "=",
+            "name": "electromagnetic-plant",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 0,
+          "to": {
+            "module_slots": [
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              }
+            ],
+            "name": "electromagnetic-plant",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "fast-inserter",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 1,
+          "to": {
+            "name": "bulk-inserter",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "pumpjack",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 2,
+          "to": {
+            "module_slots": [
+              {
+                "name": "speed-module-2"
+              },
+              {
+                "name": "speed-module-2"
+              }
+            ],
+            "name": "pumpjack",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "assembling-machine-3",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 4,
+          "to": {
+            "module_slots": [
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              }
+            ],
+            "name": "assembling-machine-3",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "electric-furnace",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 8,
+          "to": {
+            "module_slots": [
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              }
+            ],
+            "name": "electric-furnace",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "electric-mining-drill",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 12,
+          "to": {
+            "module_slots": [
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              }
+            ],
+            "name": "electric-mining-drill",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "big-mining-drill",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 16,
+          "to": {
+            "module_slots": [
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              }
+            ],
+            "name": "big-mining-drill",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "chemical-plant",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 20,
+          "to": {
+            "module_slots": [
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              }
+            ],
+            "name": "chemical-plant",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "foundry",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 24,
+          "to": {
+            "module_slots": [
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              },
+              {
+                "name": "quality-module-2"
+              }
+            ],
+            "name": "foundry",
+            "type": "entity"
+          }
+        }
+      ]
+    },
+    "version": 562949957353472
+  }
+}

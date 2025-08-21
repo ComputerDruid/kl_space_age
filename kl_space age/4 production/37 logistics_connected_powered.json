@@ -81,7 +81,7 @@
       }
     ],
     "item": "blueprint",
-    "label": "roboports_logistics_connected_powered",
+    "label": "logistics_connected_powered",
     "version": 562949957353472,
     "wires": [
       [
@@ -110,5 +110,5 @@
       ]
     ]
   },
-  "index": 43
+  "index": 37
 }

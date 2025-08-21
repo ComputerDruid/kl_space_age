@@ -1,8 +1,29 @@
 {
-  "index": 0,
+  "index": 1,
   "upgrade_planner": {
     "item": "upgrade-planner",
+    "label": "all blue",
     "settings": {
+      "icons": [
+        {
+          "index": 1,
+          "signal": {
+            "name": "express-transport-belt"
+          }
+        },
+        {
+          "index": 2,
+          "signal": {
+            "name": "express-splitter"
+          }
+        },
+        {
+          "index": 3,
+          "signal": {
+            "name": "express-underground-belt"
+          }
+        }
+      ],
       "mappers": [
         {
           "from": {
@@ -25,6 +46,19 @@
             "type": "entity"
           },
           "index": 1,
+          "to": {
+            "name": "express-transport-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "turbo-transport-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 2,
           "to": {
             "name": "express-transport-belt",
             "type": "entity"
@@ -59,6 +93,19 @@
         {
           "from": {
             "comparator": "=",
+            "name": "turbo-underground-belt",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 6,
+          "to": {
+            "name": "express-underground-belt",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
             "name": "splitter",
             "quality": "normal",
             "type": "entity"
@@ -77,6 +124,19 @@
             "type": "entity"
           },
           "index": 9,
+          "to": {
+            "name": "express-splitter",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "turbo-splitter",
+            "quality": "normal",
+            "type": "entity"
+          },
+          "index": 10,
           "to": {
             "name": "express-splitter",
             "type": "entity"

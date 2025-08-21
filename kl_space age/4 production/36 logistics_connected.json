@@ -41,8 +41,8 @@
       }
     ],
     "item": "blueprint",
-    "label": "roboports_logistics_connected",
+    "label": "logistics_connected",
     "version": 562949957353472
   },
-  "index": 42
+  "index": 36
 }

@@ -73,7 +73,7 @@
       }
     ],
     "item": "blueprint",
-    "label": "robos_construction_connected",
+    "label": "construction_connected",
     "version": 562949957353472,
     "wires": [
       [
@@ -90,5 +90,5 @@
       ]
     ]
   },
-  "index": 44
+  "index": 38
 }

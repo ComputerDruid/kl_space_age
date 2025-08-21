@@ -1,0 +1,4159 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "entity_number": 1,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 64.5,
+          "y": 85.5
+        }
+      },
+      {
+        "entity_number": 2,
+        "name": "requester-chest",
+        "position": {
+          "x": 65.5,
+          "y": 84.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1000,
+                  "index": 1,
+                  "name": "agricultural-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ],
+          "trash_not_requested": true
+        }
+      },
+      {
+        "entity_number": 3,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "agricultural-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 65.5,
+          "y": 85.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 4,
+        "name": "requester-chest",
+        "position": {
+          "x": 66.5,
+          "y": 84.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 200,
+                  "index": 1,
+                  "name": "space-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 5,
+        "name": "requester-chest",
+        "position": {
+          "x": 67.5,
+          "y": 84.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 200,
+                  "index": 1,
+                  "name": "metallurgic-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 6,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "space-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 66.5,
+          "y": 85.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 7,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "metallurgic-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 67.5,
+          "y": 85.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 8,
+        "name": "requester-chest",
+        "position": {
+          "x": 68.5,
+          "y": 84.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 200,
+                  "index": 1,
+                  "name": "electromagnetic-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 9,
+        "name": "requester-chest",
+        "position": {
+          "x": 69.5,
+          "y": 84.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 200,
+                  "index": 1,
+                  "name": "utility-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 10,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "electromagnetic-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 68.5,
+          "y": 85.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 11,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "utility-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 69.5,
+          "y": 85.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 12,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 70.5,
+          "y": 85.5
+        }
+      },
+      {
+        "entity_number": 13,
+        "name": "requester-chest",
+        "position": {
+          "x": 71.5,
+          "y": 87.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 200,
+                  "index": 1,
+                  "name": "military-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 14,
+        "name": "requester-chest",
+        "position": {
+          "x": 71.5,
+          "y": 86.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 200,
+                  "index": 1,
+                  "name": "production-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 15,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "military-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 70.5,
+          "y": 87.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 16,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "production-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 70.5,
+          "y": 86.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 17,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 67.5,
+          "y": 88.5
+        }
+      },
+      {
+        "entity_number": 18,
+        "name": "requester-chest",
+        "position": {
+          "x": 71.5,
+          "y": 88.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 200,
+                  "index": 1,
+                  "name": "logistic-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 19,
+        "name": "requester-chest",
+        "position": {
+          "x": 71.5,
+          "y": 89.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 200,
+                  "index": 1,
+                  "name": "automation-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 20,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "automation-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 70.5,
+          "y": 89.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 21,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "logistic-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 70.5,
+          "y": 88.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 22,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 57.5,
+          "y": 91.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 23,
+        "name": "small-lamp",
+        "position": {
+          "x": 58.5,
+          "y": 91.5
+        }
+      },
+      {
+        "entity_number": 24,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 63.5,
+          "y": 91.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 25,
+        "name": "small-lamp",
+        "position": {
+          "x": 62.5,
+          "y": 91.5
+        }
+      },
+      {
+        "entity_number": 26,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 65.5,
+          "y": 91.5
+        }
+      },
+      {
+        "entity_number": 27,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 66.5,
+          "y": 91.5
+        }
+      },
+      {
+        "entity_number": 28,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 67.5,
+          "y": 91.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 29,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 69.5,
+          "y": 91.5
+        }
+      },
+      {
+        "entity_number": 30,
+        "name": "requester-chest",
+        "position": {
+          "x": 71.5,
+          "y": 90.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 200,
+                  "index": 1,
+                  "name": "chemical-science-pack",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 31,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "chemical-science-pack",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 70.5,
+          "y": 90.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 32,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 71.5,
+          "y": 91.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 33,
+        "name": "small-lamp",
+        "position": {
+          "x": 72.5,
+          "y": 91.5
+        }
+      },
+      {
+        "entity_number": 34,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 77.5,
+          "y": 91.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 35,
+        "name": "small-lamp",
+        "position": {
+          "x": 76.5,
+          "y": 91.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 36,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 60.5,
+          "y": 92.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 37,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 67.5,
+          "y": 93.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 38,
+        "name": "active-provider-chest",
+        "position": {
+          "x": 67.5,
+          "y": 92.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 39,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 74.5,
+          "y": 92.5
+        }
+      },
+      {
+        "entity_number": 40,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 57.5,
+          "y": 94.5
+        }
+      },
+      {
+        "entity_number": 41,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 63.5,
+          "y": 94.5
+        }
+      },
+      {
+        "entity_number": 42,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 67.5,
+          "y": 95.5
+        }
+      },
+      {
+        "entity_number": 43,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 67.5,
+          "y": 94.5
+        }
+      },
+      {
+        "entity_number": 44,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 71.5,
+          "y": 94.5
+        }
+      },
+      {
+        "entity_number": 45,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 77.5,
+          "y": 94.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 46,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 97.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 47,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 96.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 48,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 54.5,
+          "y": 97.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 4,
+        "entity_number": 49,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 96.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 50,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 55.5,
+          "y": 97.5
+        }
+      },
+      {
+        "entity_number": 51,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 57.5,
+          "y": 97.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 52,
+        "name": "small-lamp",
+        "position": {
+          "x": 58.5,
+          "y": 97.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 53,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 61.5,
+          "y": 97.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 4,
+        "entity_number": 54,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 60.5,
+          "y": 97.5
+        },
+        "type": "output"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 55,
+        "name": "small-lamp",
+        "position": {
+          "x": 62.5,
+          "y": 97.5
+        }
+      },
+      {
+        "entity_number": 56,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 63.5,
+          "y": 97.5
+        }
+      },
+      {
+        "entity_number": 57,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 65.5,
+          "y": 97.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 58,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 66.5,
+          "y": 96.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 59,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 67.5,
+          "y": 97.5
+        }
+      },
+      {
+        "entity_number": 60,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 67.5,
+          "y": 96.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 61,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 66.5,
+          "y": 97.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 4,
+        "entity_number": 62,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 68.5,
+          "y": 96.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 63,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 68.5,
+          "y": 97.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 64,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 69.5,
+          "y": 97.5
+        }
+      },
+      {
+        "entity_number": 65,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 71.5,
+          "y": 97.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 66,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 73.5,
+          "y": 97.5
+        },
+        "type": "input"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 67,
+        "name": "small-lamp",
+        "position": {
+          "x": 72.5,
+          "y": 97.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 68,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 74.5,
+          "y": 97.5
+        },
+        "type": "output"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 69,
+        "name": "small-lamp",
+        "position": {
+          "x": 76.5,
+          "y": 97.5
+        }
+      },
+      {
+        "entity_number": 70,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 77.5,
+          "y": 97.5
+        }
+      },
+      {
+        "entity_number": 71,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 79.5,
+          "y": 97.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 72,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 96.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 73,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 80.5,
+          "y": 97.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 12,
+        "entity_number": 74,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 97.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 75,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 96.5
+        }
+      },
+      {
+        "entity_number": 76,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 98.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 77,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 98.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 78,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 98.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 12,
+        "entity_number": 79,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 66.5,
+          "y": 98.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 80,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 68.5,
+          "y": 98.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 81,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 98.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 82,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 98.5
+        }
+      },
+      {
+        "entity_number": 83,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 53.5,
+          "y": 100.5
+        }
+      },
+      {
+        "entity_number": 84,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 57.5,
+          "y": 100.5
+        }
+      },
+      {
+        "entity_number": 85,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 63.5,
+          "y": 100.5
+        }
+      },
+      {
+        "entity_number": 86,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 67.5,
+          "y": 100.5
+        }
+      },
+      {
+        "entity_number": 87,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 71.5,
+          "y": 100.5
+        }
+      },
+      {
+        "entity_number": 88,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 77.5,
+          "y": 100.5
+        }
+      },
+      {
+        "entity_number": 89,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 81.5,
+          "y": 100.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 90,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 103.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 91,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 102.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 92,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 102.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 93,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 54.5,
+          "y": 103.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 94,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 55.5,
+          "y": 103.5
+        }
+      },
+      {
+        "entity_number": 95,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 57.5,
+          "y": 103.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 96,
+        "name": "small-lamp",
+        "position": {
+          "x": 58.5,
+          "y": 103.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 97,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 60.5,
+          "y": 103.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 4,
+        "entity_number": 98,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 61.5,
+          "y": 103.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 99,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 63.5,
+          "y": 103.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 100,
+        "name": "small-lamp",
+        "position": {
+          "x": 62.5,
+          "y": 103.5
+        }
+      },
+      {
+        "entity_number": 101,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 65.5,
+          "y": 103.5
+        }
+      },
+      {
+        "entity_number": 102,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 102.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 4,
+        "entity_number": 103,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 66.5,
+          "y": 103.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 104,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 67.5,
+          "y": 103.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 105,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 68.5,
+          "y": 103.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 106,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 69.5,
+          "y": 103.5
+        }
+      },
+      {
+        "entity_number": 107,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 71.5,
+          "y": 103.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 108,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 73.5,
+          "y": 103.5
+        },
+        "type": "input"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 109,
+        "name": "small-lamp",
+        "position": {
+          "x": 72.5,
+          "y": 103.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 110,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 74.5,
+          "y": 103.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 111,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 77.5,
+          "y": 103.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 112,
+        "name": "small-lamp",
+        "position": {
+          "x": 76.5,
+          "y": 103.5
+        }
+      },
+      {
+        "entity_number": 113,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 79.5,
+          "y": 103.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 114,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 102.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 115,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 80.5,
+          "y": 103.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 12,
+        "entity_number": 116,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 103.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 117,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 102.5
+        }
+      },
+      {
+        "entity_number": 118,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 104.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 119,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 104.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 120,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 104.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 12,
+        "entity_number": 121,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 66.5,
+          "y": 104.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 122,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 68.5,
+          "y": 104.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 123,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 104.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 124,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 104.5
+        }
+      },
+      {
+        "entity_number": 125,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 53.5,
+          "y": 106.5
+        }
+      },
+      {
+        "entity_number": 126,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 57.5,
+          "y": 106.5
+        }
+      },
+      {
+        "entity_number": 127,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 63.5,
+          "y": 106.5
+        }
+      },
+      {
+        "entity_number": 128,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 67.5,
+          "y": 106.5
+        }
+      },
+      {
+        "entity_number": 129,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 71.5,
+          "y": 106.5
+        }
+      },
+      {
+        "entity_number": 130,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 77.5,
+          "y": 106.5
+        }
+      },
+      {
+        "entity_number": 131,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 81.5,
+          "y": 106.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 132,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 109.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 133,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 108.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 134,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 108.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 135,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 54.5,
+          "y": 109.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 136,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 55.5,
+          "y": 109.5
+        }
+      },
+      {
+        "entity_number": 137,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 57.5,
+          "y": 109.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 138,
+        "name": "small-lamp",
+        "position": {
+          "x": 58.5,
+          "y": 109.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 139,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 60.5,
+          "y": 109.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 4,
+        "entity_number": 140,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 61.5,
+          "y": 109.5
+        },
+        "type": "input"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 141,
+        "name": "small-lamp",
+        "position": {
+          "x": 62.5,
+          "y": 109.5
+        }
+      },
+      {
+        "entity_number": 142,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 63.5,
+          "y": 109.5
+        }
+      },
+      {
+        "entity_number": 143,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 65.5,
+          "y": 109.5
+        }
+      },
+      {
+        "entity_number": 144,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 108.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 145,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 67.5,
+          "y": 109.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 146,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 66.5,
+          "y": 109.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 12,
+        "entity_number": 147,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 68.5,
+          "y": 109.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 148,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 69.5,
+          "y": 109.5
+        }
+      },
+      {
+        "entity_number": 149,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 71.5,
+          "y": 109.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 150,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 73.5,
+          "y": 109.5
+        },
+        "type": "input"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 151,
+        "name": "small-lamp",
+        "position": {
+          "x": 72.5,
+          "y": 109.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 152,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 74.5,
+          "y": 109.5
+        },
+        "type": "output"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 153,
+        "name": "small-lamp",
+        "position": {
+          "x": 76.5,
+          "y": 109.5
+        }
+      },
+      {
+        "entity_number": 154,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 77.5,
+          "y": 109.5
+        }
+      },
+      {
+        "entity_number": 155,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 79.5,
+          "y": 109.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 156,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 108.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 157,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 80.5,
+          "y": 109.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 12,
+        "entity_number": 158,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 109.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 159,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 108.5
+        }
+      },
+      {
+        "entity_number": 160,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 110.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 161,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 110.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 162,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 110.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 12,
+        "entity_number": 163,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 66.5,
+          "y": 110.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 164,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 68.5,
+          "y": 110.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 165,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 110.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 166,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 110.5
+        }
+      },
+      {
+        "entity_number": 167,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 53.5,
+          "y": 112.5
+        }
+      },
+      {
+        "entity_number": 168,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 57.5,
+          "y": 112.5
+        }
+      },
+      {
+        "entity_number": 169,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 63.5,
+          "y": 112.5
+        }
+      },
+      {
+        "entity_number": 170,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 67.5,
+          "y": 112.5
+        }
+      },
+      {
+        "entity_number": 171,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 71.5,
+          "y": 112.5
+        }
+      },
+      {
+        "entity_number": 172,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 77.5,
+          "y": 112.5
+        }
+      },
+      {
+        "entity_number": 173,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 81.5,
+          "y": 112.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 174,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 115.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 175,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 114.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 176,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 114.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 177,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 54.5,
+          "y": 115.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 178,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 55.5,
+          "y": 115.5
+        }
+      },
+      {
+        "entity_number": 179,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 57.5,
+          "y": 115.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 180,
+        "name": "small-lamp",
+        "position": {
+          "x": 58.5,
+          "y": 115.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 181,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 60.5,
+          "y": 115.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 4,
+        "entity_number": 182,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 61.5,
+          "y": 115.5
+        },
+        "type": "input"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 183,
+        "name": "small-lamp",
+        "position": {
+          "x": 62.5,
+          "y": 115.5
+        }
+      },
+      {
+        "entity_number": 184,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 63.5,
+          "y": 115.5
+        }
+      },
+      {
+        "entity_number": 185,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 65.5,
+          "y": 115.5
+        }
+      },
+      {
+        "entity_number": 186,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 114.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 187,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 67.5,
+          "y": 115.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 188,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 66.5,
+          "y": 115.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 12,
+        "entity_number": 189,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 68.5,
+          "y": 115.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 190,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 69.5,
+          "y": 115.5
+        }
+      },
+      {
+        "entity_number": 191,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 71.5,
+          "y": 115.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 192,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 73.5,
+          "y": 115.5
+        },
+        "type": "input"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 193,
+        "name": "small-lamp",
+        "position": {
+          "x": 72.5,
+          "y": 115.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 194,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 74.5,
+          "y": 115.5
+        },
+        "type": "output"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 195,
+        "name": "small-lamp",
+        "position": {
+          "x": 76.5,
+          "y": 115.5
+        }
+      },
+      {
+        "entity_number": 196,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 77.5,
+          "y": 115.5
+        }
+      },
+      {
+        "entity_number": 197,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 79.5,
+          "y": 115.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 198,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 114.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 199,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 80.5,
+          "y": 115.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 12,
+        "entity_number": 200,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 115.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 201,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 114.5
+        }
+      },
+      {
+        "entity_number": 202,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 116.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 203,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 116.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 204,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 116.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 12,
+        "entity_number": 205,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 66.5,
+          "y": 116.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 206,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 68.5,
+          "y": 116.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 207,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 116.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 208,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 116.5
+        }
+      },
+      {
+        "entity_number": 209,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 53.5,
+          "y": 118.5
+        }
+      },
+      {
+        "entity_number": 210,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 57.5,
+          "y": 118.5
+        }
+      },
+      {
+        "entity_number": 211,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 63.5,
+          "y": 118.5
+        }
+      },
+      {
+        "entity_number": 212,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 67.5,
+          "y": 118.5
+        }
+      },
+      {
+        "entity_number": 213,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 71.5,
+          "y": 118.5
+        }
+      },
+      {
+        "entity_number": 214,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 77.5,
+          "y": 118.5
+        }
+      },
+      {
+        "entity_number": 215,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 81.5,
+          "y": 118.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 216,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 121.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 217,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 120.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 218,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 120.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 219,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 55.5,
+          "y": 121.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 220,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 54.5,
+          "y": 121.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 221,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 57.5,
+          "y": 121.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 222,
+        "name": "small-lamp",
+        "position": {
+          "x": 58.5,
+          "y": 121.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 223,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 60.5,
+          "y": 121.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 4,
+        "entity_number": 224,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 61.5,
+          "y": 121.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 225,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 63.5,
+          "y": 121.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 226,
+        "name": "small-lamp",
+        "position": {
+          "x": 62.5,
+          "y": 121.5
+        }
+      },
+      {
+        "entity_number": 227,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 65.5,
+          "y": 121.5
+        }
+      },
+      {
+        "entity_number": 228,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 120.5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 229,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 67.5,
+          "y": 121.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 230,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 66.5,
+          "y": 121.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 231,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 69.5,
+          "y": 121.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 232,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 68.5,
+          "y": 121.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 233,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 71.5,
+          "y": 121.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 234,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 73.5,
+          "y": 121.5
+        },
+        "type": "input"
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 235,
+        "name": "small-lamp",
+        "position": {
+          "x": 72.5,
+          "y": 121.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 236,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 74.5,
+          "y": 121.5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 237,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 77.5,
+          "y": 121.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 238,
+        "name": "small-lamp",
+        "position": {
+          "x": 76.5,
+          "y": 121.5
+        }
+      },
+      {
+        "entity_number": 239,
+        "name": "bulk-inserter",
+        "position": {
+          "x": 79.5,
+          "y": 121.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 240,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 120.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 241,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 80.5,
+          "y": 121.5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 12,
+        "entity_number": 242,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 121.5
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 243,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 120.5
+        }
+      },
+      {
+        "entity_number": 244,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 53.5,
+          "y": 122.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 245,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 54.5,
+          "y": 122.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 246,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 122.5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 12,
+        "entity_number": 247,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 66.5,
+          "y": 122.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 4,
+        "entity_number": 248,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 68.5,
+          "y": 122.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 249,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "spoilage",
+            "quality": "normal"
+          }
+        ],
+        "name": "bulk-inserter",
+        "position": {
+          "x": 80.5,
+          "y": 122.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 250,
+        "name": "express-transport-belt",
+        "position": {
+          "x": 81.5,
+          "y": 122.5
+        }
+      },
+      {
+        "entity_number": 251,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 53.5,
+          "y": 124.5
+        }
+      },
+      {
+        "entity_number": 252,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 57.5,
+          "y": 124.5
+        }
+      },
+      {
+        "entity_number": 253,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 63.5,
+          "y": 124.5
+        }
+      },
+      {
+        "entity_number": 254,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 67.5,
+          "y": 124.5
+        }
+      },
+      {
+        "entity_number": 255,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 71.5,
+          "y": 124.5
+        }
+      },
+      {
+        "entity_number": 256,
+        "items": [
+          {
+            "id": {
+              "name": "productivity-module-3"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 3,
+                  "stack": 0
+                },
+                {
+                  "inventory": 3,
+                  "stack": 1
+                },
+                {
+                  "inventory": 3,
+                  "stack": 2
+                },
+                {
+                  "inventory": 3,
+                  "stack": 3
+                }
+              ]
+            }
+          }
+        ],
+        "name": "biolab",
+        "position": {
+          "x": 77.5,
+          "y": 124.5
+        }
+      },
+      {
+        "entity_number": 257,
+        "items": [
+          {
+            "id": {
+              "name": "speed-module-2"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                }
+              ]
+            }
+          }
+        ],
+        "name": "beacon",
+        "position": {
+          "x": 81.5,
+          "y": 124.5
+        }
+      },
+      {
+        "entity_number": 258,
+        "name": "express-underground-belt",
+        "position": {
+          "x": 67.5,
+          "y": 126.5
+        },
+        "type": "input"
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "biolab"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "science",
+    "version": 562949957353472,
+    "wires": [
+      [
+        1,
+        5,
+        12,
+        5
+      ],
+      [
+        1,
+        5,
+        24,
+        5
+      ],
+      [
+        12,
+        5,
+        27,
+        5
+      ],
+      [
+        12,
+        5,
+        32,
+        5
+      ],
+      [
+        22,
+        5,
+        24,
+        5
+      ],
+      [
+        22,
+        5,
+        51,
+        5
+      ],
+      [
+        24,
+        5,
+        27,
+        5
+      ],
+      [
+        24,
+        5,
+        32,
+        5
+      ],
+      [
+        24,
+        5,
+        56,
+        5
+      ],
+      [
+        27,
+        5,
+        65,
+        5
+      ],
+      [
+        32,
+        5,
+        34,
+        5
+      ],
+      [
+        32,
+        5,
+        65,
+        5
+      ],
+      [
+        34,
+        5,
+        70,
+        5
+      ],
+      [
+        51,
+        5,
+        56,
+        5
+      ],
+      [
+        51,
+        5,
+        95,
+        5
+      ],
+      [
+        56,
+        5,
+        65,
+        5
+      ],
+      [
+        56,
+        5,
+        99,
+        5
+      ],
+      [
+        65,
+        5,
+        70,
+        5
+      ],
+      [
+        65,
+        5,
+        107,
+        5
+      ],
+      [
+        70,
+        5,
+        111,
+        5
+      ],
+      [
+        95,
+        5,
+        99,
+        5
+      ],
+      [
+        95,
+        5,
+        137,
+        5
+      ],
+      [
+        99,
+        5,
+        107,
+        5
+      ],
+      [
+        99,
+        5,
+        142,
+        5
+      ],
+      [
+        107,
+        5,
+        111,
+        5
+      ],
+      [
+        107,
+        5,
+        149,
+        5
+      ],
+      [
+        111,
+        5,
+        154,
+        5
+      ],
+      [
+        137,
+        5,
+        142,
+        5
+      ],
+      [
+        137,
+        5,
+        179,
+        5
+      ],
+      [
+        142,
+        5,
+        149,
+        5
+      ],
+      [
+        142,
+        5,
+        184,
+        5
+      ],
+      [
+        149,
+        5,
+        154,
+        5
+      ],
+      [
+        149,
+        5,
+        191,
+        5
+      ],
+      [
+        154,
+        5,
+        196,
+        5
+      ],
+      [
+        179,
+        5,
+        184,
+        5
+      ],
+      [
+        179,
+        5,
+        221,
+        5
+      ],
+      [
+        184,
+        5,
+        191,
+        5
+      ],
+      [
+        184,
+        5,
+        225,
+        5
+      ],
+      [
+        191,
+        5,
+        196,
+        5
+      ],
+      [
+        191,
+        5,
+        233,
+        5
+      ],
+      [
+        196,
+        5,
+        237,
+        5
+      ],
+      [
+        221,
+        5,
+        225,
+        5
+      ],
+      [
+        225,
+        5,
+        233,
+        5
+      ],
+      [
+        233,
+        5,
+        237,
+        5
+      ]
+    ]
+  },
+  "index": 40
+}
