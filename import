@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -euE -o pipefail
+
+rm -rf kl_space\ age/
+factorio-bp-helper save
+if [ -d kl_space\ age/ ] ; then
+  git add -A kl_space\ age
+  git commit
+else
+  echo "Something went wrong" >&2
+  exit 1
+fi
