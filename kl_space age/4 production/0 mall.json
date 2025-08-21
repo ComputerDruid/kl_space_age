@@ -233,7 +233,7 @@
       },
       {
         "dependent": true,
-        "formula": "p0_s",
+        "formula": "10*p0_r",
         "number": "1",
         "type": "number"
       },

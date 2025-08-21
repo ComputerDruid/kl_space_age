@@ -1529,13 +1529,13 @@
       },
       {
         "dependent": true,
-        "formula": "p0_s",
+        "formula": "p0_r",
         "number": "100",
         "type": "number"
       },
       {
         "dependent": true,
-        "formula": "p1_s",
+        "formula": "p1_r",
         "number": "11",
         "type": "number"
       }
