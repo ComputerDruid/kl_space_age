@@ -2,42 +2,140 @@
   "blueprint": {
     "entities": [
       {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<",
+            "constant": 99,
+            "first_signal": {
+              "name": "parameter-0"
+            }
+          },
+          "circuit_enabled": true,
+          "read_contents": true
+        },
         "entity_number": 1,
         "name": "assembling-machine-3",
         "position": {
-          "x": 475.5,
-          "y": -46.5
+          "x": 461.5,
+          "y": -86.5
         },
         "recipe": "parameter-0",
         "recipe_quality": "normal"
       },
       {
+        "direction": 8,
+        "entity_number": 2,
+        "name": "fast-inserter",
+        "position": {
+          "x": 460.5,
+          "y": -84.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 3,
+        "name": "small-lamp",
+        "position": {
+          "x": 461.5,
+          "y": -84.5
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": "<"
+          },
+          "circuit_hand_read_mode": 1,
+          "circuit_read_hand_contents": true
+        },
+        "entity_number": 4,
+        "name": "inserter",
+        "position": {
+          "x": 462.5,
+          "y": -84.5
+        }
+      },
+      {
         "control_behavior": {
           "circuit_condition": {
             "comparator": "<",
-            "constant": 50,
+            "constant": 99,
             "first_signal": {
               "name": "parameter-0"
             }
           },
-          "circuit_enabled": true
+          "circuit_condition_enabled": true
         },
-        "entity_number": 2,
-        "name": "bulk-inserter",
+        "entity_number": 5,
+        "name": "requester-chest",
         "position": {
-          "x": 474.5,
-          "y": -44.5
+          "x": 460.5,
+          "y": -83.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 11,
+                  "index": 1,
+                  "max_count": 11,
+                  "name": "parameter-1",
+                  "quality": "normal"
+                },
+                {
+                  "comparator": "=",
+                  "count": 22,
+                  "index": 2,
+                  "max_count": 22,
+                  "name": "parameter-2",
+                  "quality": "normal"
+                },
+                {
+                  "comparator": "=",
+                  "count": 33,
+                  "index": 3,
+                  "max_count": 33,
+                  "name": "parameter-3",
+                  "quality": "normal"
+                },
+                {
+                  "comparator": "=",
+                  "count": 44,
+                  "index": 4,
+                  "max_count": 44,
+                  "name": "parameter-4",
+                  "quality": "normal"
+                },
+                {
+                  "comparator": "=",
+                  "count": 55,
+                  "index": 5,
+                  "max_count": 55,
+                  "name": "parameter-5",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
         }
       },
       {
         "control_behavior": {
           "circuit_condition_enabled": false
         },
-        "entity_number": 3,
+        "entity_number": 6,
         "name": "storage-chest",
         "position": {
-          "x": 474.5,
-          "y": -43.5
+          "x": 462.5,
+          "y": -83.5
         },
         "request_filters": {
           "sections": [
@@ -63,6 +161,24 @@
         "signal": {
           "name": "assembling-machine-3"
         }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "name": "inserter"
+        }
+      },
+      {
+        "index": 3,
+        "signal": {
+          "name": "requester-chest"
+        }
+      },
+      {
+        "index": 4,
+        "signal": {
+          "name": "storage-chest"
+        }
       }
     ],
     "item": "blueprint",
@@ -80,17 +196,97 @@
       {
         "dependent": true,
         "formula": "p0_s",
-        "name": "count",
-        "number": "50",
+        "number": "99",
+        "type": "number"
+      },
+      {
+        "id": "parameter-1",
+        "ingredient-of": "parameter-0",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "dependent": true,
+        "formula": "p1_s",
+        "number": "11",
+        "type": "number"
+      },
+      {
+        "id": "parameter-2",
+        "ingredient-of": "parameter-0",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "dependent": true,
+        "formula": "p2_s",
+        "number": "22",
+        "type": "number"
+      },
+      {
+        "id": "parameter-3",
+        "ingredient-of": "parameter-0",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "dependent": true,
+        "formula": "p3_s",
+        "number": "33",
+        "type": "number"
+      },
+      {
+        "id": "parameter-4",
+        "ingredient-of": "parameter-0",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "dependent": true,
+        "formula": "p4_s",
+        "number": "44",
+        "type": "number"
+      },
+      {
+        "id": "parameter-5",
+        "ingredient-of": "parameter-0",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "dependent": true,
+        "formula": "p5_s",
+        "number": "55",
         "type": "number"
       }
     ],
     "version": 562949957353472,
     "wires": [
       [
-        2,
         1,
-        3,
+        1,
+        4,
+        1
+      ],
+      [
+        4,
+        1,
+        6,
         1
       ]
     ]

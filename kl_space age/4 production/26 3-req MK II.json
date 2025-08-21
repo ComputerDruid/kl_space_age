@@ -2045,6 +2045,7 @@
     "parameters": [
       {
         "id": "parameter-0",
+        "name": "item",
         "quality-condition": {
           "comparator": "=",
           "quality": "normal"

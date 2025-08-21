@@ -1,0 +1,2072 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "direction": 4,
+        "entity_number": 1,
+        "name": "straight-rail",
+        "position": {
+          "x": 923,
+          "y": -257
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 2,
+        "name": "straight-rail",
+        "position": {
+          "x": 925,
+          "y": -257
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 3,
+        "name": "straight-rail",
+        "position": {
+          "x": 927,
+          "y": -257
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 4,
+        "name": "straight-rail",
+        "position": {
+          "x": 929,
+          "y": -257
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 5,
+        "name": "straight-rail",
+        "position": {
+          "x": 931,
+          "y": -257
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 6,
+        "name": "curved-rail-a",
+        "position": {
+          "x": 932,
+          "y": -257
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 7,
+        "name": "straight-rail",
+        "position": {
+          "x": 933,
+          "y": -257
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 8,
+        "name": "straight-rail",
+        "position": {
+          "x": 935,
+          "y": -257
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 9,
+        "name": "curved-rail-b",
+        "position": {
+          "x": 937,
+          "y": -255
+        }
+      },
+      {
+        "direction": 5,
+        "entity_number": 10,
+        "name": "rail-chain-signal",
+        "position": {
+          "x": 937.5,
+          "y": -255.5
+        }
+      },
+      {
+        "entity_number": 11,
+        "name": "curved-rail-b",
+        "position": {
+          "x": 941,
+          "y": -251
+        }
+      },
+      {
+        "entity_number": 12,
+        "name": "curved-rail-a",
+        "position": {
+          "x": 943,
+          "y": -246
+        }
+      },
+      {
+        "entity_number": 13,
+        "name": "big-electric-pole",
+        "position": {
+          "x": 940,
+          "y": -243
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 14,
+        "name": "rail-chain-signal",
+        "position": {
+          "x": 944.5,
+          "y": -242.5
+        }
+      },
+      {
+        "entity_number": 15,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -241
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 0.8039215803146362,
+          "g": 0.4117647111415863,
+          "r": 0.1764705926179886
+        },
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">",
+            "constant": 0
+          },
+          "send_to_train": false,
+          "train_stopped_signal": {
+            "name": "signal-T",
+            "type": "virtual"
+          }
+        },
+        "entity_number": 16,
+        "name": "train-stop",
+        "position": {
+          "x": 945,
+          "y": -241
+        },
+        "station": "1-4-1-[item=parameter-0]-[virtual-signal=signal-any-quality]-logistics-source"
+      },
+      {
+        "entity_number": 17,
+        "name": "roboport",
+        "position": {
+          "x": 940,
+          "y": -240
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 18,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -239
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 0.8039215803146362,
+          "g": 0.4117647111415863,
+          "r": 0.1764705926179886
+        },
+        "enable_logistics_while_moving": false,
+        "entity_number": 19,
+        "items": [
+          {
+            "id": {
+              "name": "nuclear-fuel"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                },
+                {
+                  "inventory": 1,
+                  "stack": 2
+                }
+              ]
+            }
+          }
+        ],
+        "name": "locomotive",
+        "orientation": 0,
+        "position": {
+          "x": 943,
+          "y": -238
+        }
+      },
+      {
+        "entity_number": 20,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -237
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 21,
+        "name": "small-lamp",
+        "position": {
+          "x": 939.5,
+          "y": -234.5
+        }
+      },
+      {
+        "entity_number": 22,
+        "name": "requester-chest",
+        "position": {
+          "x": 940.5,
+          "y": -235.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 3,
+                  "index": 1,
+                  "max_count": 3,
+                  "name": "nuclear-fuel",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 23,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 940.5,
+          "y": -234.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 24,
+        "name": "small-lamp",
+        "position": {
+          "x": 941.5,
+          "y": -234.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 25,
+        "name": "inserter",
+        "position": {
+          "x": 941.5,
+          "y": -235.5
+        }
+      },
+      {
+        "entity_number": 26,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -235
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 27,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-0",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -233.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 28,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-0",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -232.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 29,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -232.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 30,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -233.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 31,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -233
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 32,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-2",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -230.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 33,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-1",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -231.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 34,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -231.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-1",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 35,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -230.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-2",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "enable_logistics_while_moving": false,
+        "entity_number": 36,
+        "inventory": null,
+        "name": "cargo-wagon",
+        "orientation": 0,
+        "position": {
+          "x": 943,
+          "y": -231
+        }
+      },
+      {
+        "entity_number": 37,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -231
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 38,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-4",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -228.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 39,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-3",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -229.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 40,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -229.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-3",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 41,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -228.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-4",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 42,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -229
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 43,
+        "name": "small-lamp",
+        "position": {
+          "x": 939.5,
+          "y": -227.5
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 44,
+        "name": "small-lamp",
+        "position": {
+          "x": 941.5,
+          "y": -227.5
+        }
+      },
+      {
+        "entity_number": 45,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 940.5,
+          "y": -227.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 46,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-0",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -226.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 47,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -226.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 48,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -227
+        }
+      },
+      {
+        "entity_number": 49,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -225.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 50,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -224.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-1",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 51,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-1",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -224.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 52,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-0",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -225.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 53,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -225
+        }
+      },
+      {
+        "entity_number": 54,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -223.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-2",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 55,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -222.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-3",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 56,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-3",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -222.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 57,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-2",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -223.5
+        },
+        "use_filters": true
+      },
+      {
+        "enable_logistics_while_moving": false,
+        "entity_number": 58,
+        "inventory": null,
+        "name": "cargo-wagon",
+        "orientation": 0,
+        "position": {
+          "x": 943,
+          "y": -224
+        }
+      },
+      {
+        "entity_number": 59,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -223
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 60,
+        "name": "small-lamp",
+        "position": {
+          "x": 939.5,
+          "y": -220.5
+        }
+      },
+      {
+        "entity_number": 61,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -221.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-4",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 62,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 940.5,
+          "y": -220.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 63,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-4",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -221.5
+        },
+        "use_filters": true
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 64,
+        "name": "small-lamp",
+        "position": {
+          "x": 941.5,
+          "y": -220.5
+        }
+      },
+      {
+        "entity_number": 65,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -221
+        }
+      },
+      {
+        "entity_number": 66,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -218.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 67,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -219.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 68,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-0",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -219.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 69,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-0",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -218.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 70,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -219
+        }
+      },
+      {
+        "entity_number": 71,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -217.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-1",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 72,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -216.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-2",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 73,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-2",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -216.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 74,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-1",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -217.5
+        },
+        "use_filters": true
+      },
+      {
+        "enable_logistics_while_moving": false,
+        "entity_number": 75,
+        "inventory": null,
+        "name": "cargo-wagon",
+        "orientation": 0,
+        "position": {
+          "x": 943,
+          "y": -217
+        }
+      },
+      {
+        "entity_number": 76,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -217
+        }
+      },
+      {
+        "entity_number": 77,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -215.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-3",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 78,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -214.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-4",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 79,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-3",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -215.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 80,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-4",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -214.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 81,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -215
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 82,
+        "name": "small-lamp",
+        "position": {
+          "x": 939.5,
+          "y": -213.5
+        }
+      },
+      {
+        "entity_number": 83,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -212.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 84,
+        "name": "small-lamp",
+        "position": {
+          "x": 941.5,
+          "y": -213.5
+        }
+      },
+      {
+        "entity_number": 85,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 940.5,
+          "y": -213.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 86,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-0",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -212.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 87,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -213
+        }
+      },
+      {
+        "entity_number": 88,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -210.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-1",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 89,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -211.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 90,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-0",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -211.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 91,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-1",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -210.5
+        },
+        "use_filters": true
+      },
+      {
+        "entity_number": 92,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -211
+        }
+      },
+      {
+        "entity_number": 93,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -208.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-3",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 94,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -209.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-2",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 95,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-2",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -209.5
+        },
+        "use_filters": true
+      },
+      {
+        "direction": 12,
+        "entity_number": 96,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-3",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -208.5
+        },
+        "use_filters": true
+      },
+      {
+        "enable_logistics_while_moving": false,
+        "entity_number": 97,
+        "inventory": null,
+        "name": "cargo-wagon",
+        "orientation": 0,
+        "position": {
+          "x": 943,
+          "y": -210
+        }
+      },
+      {
+        "entity_number": 98,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -209
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 99,
+        "name": "small-lamp",
+        "position": {
+          "x": 939.5,
+          "y": -206.5
+        }
+      },
+      {
+        "entity_number": 100,
+        "name": "storage-chest",
+        "position": {
+          "x": 940.5,
+          "y": -207.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 1,
+                  "index": 1,
+                  "name": "parameter-4",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 101,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-4",
+            "quality": "normal"
+          }
+        ],
+        "name": "fast-inserter",
+        "position": {
+          "x": 941.5,
+          "y": -207.5
+        },
+        "use_filters": true
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "entity_number": 102,
+        "name": "small-lamp",
+        "position": {
+          "x": 941.5,
+          "y": -206.5
+        }
+      },
+      {
+        "entity_number": 103,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 940.5,
+          "y": -206.5
+        }
+      },
+      {
+        "entity_number": 104,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -207
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 105,
+        "name": "inserter",
+        "position": {
+          "x": 941.5,
+          "y": -205.5
+        }
+      },
+      {
+        "entity_number": 106,
+        "name": "requester-chest",
+        "position": {
+          "x": 940.5,
+          "y": -205.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 3,
+                  "index": 1,
+                  "max_count": 3,
+                  "name": "nuclear-fuel",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 107,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -205
+        }
+      },
+      {
+        "color": {
+          "a": 1,
+          "b": 0.8039215803146362,
+          "g": 0.4117647111415863,
+          "r": 0.1764705926179886
+        },
+        "enable_logistics_while_moving": false,
+        "entity_number": 108,
+        "items": [
+          {
+            "id": {
+              "name": "nuclear-fuel"
+            },
+            "items": {
+              "in_inventory": [
+                {
+                  "inventory": 1,
+                  "stack": 0
+                },
+                {
+                  "inventory": 1,
+                  "stack": 1
+                },
+                {
+                  "inventory": 1,
+                  "stack": 2
+                }
+              ]
+            }
+          }
+        ],
+        "name": "locomotive",
+        "orientation": 0,
+        "position": {
+          "x": 943,
+          "y": -203
+        }
+      },
+      {
+        "entity_number": 109,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -203
+        }
+      },
+      {
+        "entity_number": 110,
+        "name": "roboport",
+        "position": {
+          "x": 940,
+          "y": -201
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "entity_number": 111,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -201
+        }
+      },
+      {
+        "entity_number": 112,
+        "name": "straight-rail",
+        "position": {
+          "x": 943,
+          "y": -199
+        }
+      },
+      {
+        "direction": 8,
+        "entity_number": 113,
+        "name": "rail-signal",
+        "position": {
+          "x": 944.5,
+          "y": -199.5
+        }
+      },
+      {
+        "entity_number": 114,
+        "name": "big-electric-pole",
+        "position": {
+          "x": 940,
+          "y": -198
+        }
+      },
+      {
+        "direction": 10,
+        "entity_number": 115,
+        "name": "curved-rail-a",
+        "position": {
+          "x": 943,
+          "y": -196
+        }
+      },
+      {
+        "direction": 10,
+        "entity_number": 116,
+        "name": "curved-rail-b",
+        "position": {
+          "x": 941,
+          "y": -191
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 117,
+        "name": "curved-rail-b",
+        "position": {
+          "x": 937,
+          "y": -187
+        }
+      },
+      {
+        "direction": 11,
+        "entity_number": 118,
+        "name": "rail-chain-signal",
+        "position": {
+          "x": 937.5,
+          "y": -186.5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 119,
+        "name": "straight-rail",
+        "position": {
+          "x": 923,
+          "y": -185
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 120,
+        "name": "straight-rail",
+        "position": {
+          "x": 925,
+          "y": -185
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 121,
+        "name": "straight-rail",
+        "position": {
+          "x": 927,
+          "y": -185
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 122,
+        "name": "straight-rail",
+        "position": {
+          "x": 929,
+          "y": -185
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 123,
+        "name": "straight-rail",
+        "position": {
+          "x": 931,
+          "y": -185
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 124,
+        "name": "straight-rail",
+        "position": {
+          "x": 933,
+          "y": -185
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 125,
+        "name": "curved-rail-a",
+        "position": {
+          "x": 932,
+          "y": -185
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 126,
+        "name": "straight-rail",
+        "position": {
+          "x": 935,
+          "y": -185
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 127,
+        "name": "rail-chain-signal",
+        "position": {
+          "x": 930.5,
+          "y": -183.5
+        }
+      },
+      {
+        "direction": 12,
+        "entity_number": 128,
+        "name": "rail-chain-signal",
+        "position": {
+          "x": 935.5,
+          "y": -183.5
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "train-stop"
+        }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "name": "storage-chest"
+        }
+      },
+      {
+        "index": 3,
+        "signal": {
+          "name": "fast-inserter"
+        }
+      },
+      {
+        "index": 4,
+        "signal": {
+          "name": "up-arrow",
+          "type": "virtual"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "1-4-1-logistics-quality-source",
+    "parameters": [
+      {
+        "id": "parameter-0",
+        "name": "common",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-1",
+        "name": "uncommon",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-2",
+        "name": "rare",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-3",
+        "name": "epic",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "id": "parameter-4",
+        "name": "legendary",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      }
+    ],
+    "schedules": [
+      {
+        "locomotives": [
+          19,
+          108
+        ],
+        "schedule": {
+          "group": "mining-logistics-[item=parameter-0]",
+          "records": [
+            {
+              "station": "1-4-1-[item=parameter-0]-[virtual-signal=signal-any-quality]-logistics-source",
+              "wait_conditions": [
+                {
+                  "compare_type": "and",
+                  "type": "fuel_full"
+                },
+                {
+                  "compare_type": "and",
+                  "type": "not_empty"
+                },
+                {
+                  "compare_type": "and",
+                  "ticks": 1200,
+                  "type": "inactivity"
+                }
+              ]
+            },
+            {
+              "station": "1-4-1-[item=parameter-0]-[virtual-signal=signal-any-quality]-sink",
+              "wait_conditions": [
+                {
+                  "compare_type": "and",
+                  "type": "fuel_full"
+                },
+                {
+                  "compare_type": "and",
+                  "type": "empty"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "stock_connections": [
+      {
+        "back": 36,
+        "stock": 19
+      },
+      {
+        "back": 58,
+        "front": 19,
+        "stock": 36
+      },
+      {
+        "back": 75,
+        "front": 36,
+        "stock": 58
+      },
+      {
+        "back": 97,
+        "front": 58,
+        "stock": 75
+      },
+      {
+        "back": 108,
+        "front": 75,
+        "stock": 97
+      },
+      {
+        "front": 97,
+        "stock": 108
+      }
+    ],
+    "version": 562949957353472,
+    "wires": [
+      [
+        13,
+        5,
+        23,
+        5
+      ],
+      [
+        23,
+        5,
+        45,
+        5
+      ],
+      [
+        45,
+        5,
+        62,
+        5
+      ],
+      [
+        62,
+        5,
+        85,
+        5
+      ],
+      [
+        85,
+        5,
+        103,
+        5
+      ],
+      [
+        103,
+        5,
+        114,
+        5
+      ]
+    ]
+  },
+  "index": 14
+}
