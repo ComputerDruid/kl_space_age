@@ -1,0 +1,59 @@
+{
+  "deconstruction_planner": {
+    "item": "deconstruction-planner",
+    "label": "{power, logistics}",
+    "settings": {
+      "entity_filters": [
+        {
+          "index": 0,
+          "name": "small-electric-pole"
+        },
+        {
+          "index": 1,
+          "name": "medium-electric-pole"
+        },
+        {
+          "index": 2,
+          "name": "big-electric-pole"
+        },
+        {
+          "index": 3,
+          "name": "substation"
+        },
+        {
+          "index": 20,
+          "name": "roboport"
+        }
+      ],
+      "icons": [
+        {
+          "index": 1,
+          "signal": {
+            "name": "small-electric-pole"
+          }
+        },
+        {
+          "index": 2,
+          "signal": {
+            "name": "medium-electric-pole"
+          }
+        },
+        {
+          "index": 3,
+          "signal": {
+            "name": "big-electric-pole"
+          }
+        },
+        {
+          "index": 4,
+          "signal": {
+            "name": "substation"
+          }
+        }
+      ],
+      "tile_selection_mode": 2
+    },
+    "version": 562949957353472
+  },
+  "index": 2
+}
