@@ -1,0 +1,108 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "control_behavior": {
+          "circuit_condition_enabled": false
+        },
+        "entity_number": 1,
+        "name": "buffer-chest",
+        "position": {
+          "x": 301.5,
+          "y": -249.5
+        },
+        "request_filters": {
+          "sections": [
+            {
+              "filters": [
+                {
+                  "comparator": "=",
+                  "count": 300,
+                  "index": 1,
+                  "max_count": 300,
+                  "name": "parameter-0",
+                  "quality": "normal"
+                }
+              ],
+              "index": 1
+            }
+          ]
+        }
+      },
+      {
+        "control_behavior": {
+          "circuit_condition": {
+            "comparator": ">"
+          },
+          "connect_to_logistic_network": true,
+          "logistic_condition": {
+            "comparator": ">",
+            "constant": 150,
+            "first_signal": {
+              "name": "parameter-0"
+            }
+          }
+        },
+        "direction": 12,
+        "entity_number": 2,
+        "filters": [
+          {
+            "comparator": "=",
+            "index": 1,
+            "name": "parameter-0",
+            "quality": "normal"
+          }
+        ],
+        "name": "stack-inserter",
+        "position": {
+          "x": 302.5,
+          "y": -249.5
+        },
+        "use_filters": true
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "buffer-chest"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "recycling",
+    "parameters": [
+      {
+        "id": "parameter-0",
+        "quality-condition": {
+          "comparator": "=",
+          "quality": "normal"
+        },
+        "type": "id"
+      },
+      {
+        "dependent": true,
+        "formula": "p0_s*3",
+        "number": "150",
+        "type": "number",
+        "variable": "i"
+      },
+      {
+        "dependent": true,
+        "formula": "i+1",
+        "number": "300",
+        "type": "number"
+      }
+    ],
+    "version": 562949957353472,
+    "wires": [
+      [
+        1,
+        1,
+        2,
+        1
+      ]
+    ]
+  },
+  "index": 1
+}

@@ -15,7 +15,7 @@
           "index": 0,
           "to": {
             "name": "assembling-machine-3",
-            "quality": "uncommon",
+            "quality": "rare",
             "type": "entity"
           }
         },
@@ -69,7 +69,7 @@
           "index": 4,
           "to": {
             "name": "assembling-machine-3",
-            "quality": "uncommon",
+            "quality": "rare",
             "type": "entity"
           }
         },
@@ -109,7 +109,7 @@
           "index": 8,
           "to": {
             "name": "assembling-machine-3",
-            "quality": "uncommon",
+            "quality": "rare",
             "type": "entity"
           }
         },
@@ -403,6 +403,20 @@
         {
           "from": {
             "comparator": "=",
+            "name": "assembling-machine-1",
+            "quality": "uncommon",
+            "type": "entity"
+          },
+          "index": 36,
+          "to": {
+            "name": "assembling-machine-3",
+            "quality": "rare",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
             "name": "speed-module-2",
             "quality": "uncommon",
             "type": "item"
@@ -412,6 +426,34 @@
             "name": "speed-module-3",
             "quality": "uncommon",
             "type": "item"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "assembling-machine-2",
+            "quality": "uncommon",
+            "type": "entity"
+          },
+          "index": 40,
+          "to": {
+            "name": "assembling-machine-3",
+            "quality": "rare",
+            "type": "entity"
+          }
+        },
+        {
+          "from": {
+            "comparator": "=",
+            "name": "assembling-machine-3",
+            "quality": "uncommon",
+            "type": "entity"
+          },
+          "index": 44,
+          "to": {
+            "name": "assembling-machine-3",
+            "quality": "rare",
+            "type": "entity"
           }
         }
       ]

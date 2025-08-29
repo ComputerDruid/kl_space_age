@@ -6,8 +6,8 @@
         "entity_number": 1,
         "name": "rail-signal",
         "position": {
-          "x": -157.5,
-          "y": -558.5
+          "x": 0.5,
+          "y": 1.5
         }
       },
       {
@@ -15,8 +15,8 @@
         "entity_number": 2,
         "name": "rail-chain-signal",
         "position": {
-          "x": -152.5,
-          "y": -558.5
+          "x": 5.5,
+          "y": 1.5
         }
       },
       {
@@ -24,8 +24,8 @@
         "entity_number": 3,
         "name": "rail-signal",
         "position": {
-          "x": -115.5,
-          "y": -558.5
+          "x": 42.5,
+          "y": 1.5
         }
       },
       {
@@ -33,8 +33,8 @@
         "entity_number": 4,
         "name": "rail-chain-signal",
         "position": {
-          "x": -110.5,
-          "y": -558.5
+          "x": 47.5,
+          "y": 1.5
         }
       },
       {
@@ -42,8 +42,8 @@
         "entity_number": 5,
         "name": "curved-rail-a",
         "position": {
-          "x": -196,
-          "y": -557
+          "x": -38,
+          "y": 3
         }
       },
       {
@@ -51,8 +51,8 @@
         "entity_number": 6,
         "name": "straight-rail",
         "position": {
-          "x": -193,
-          "y": -557
+          "x": -35,
+          "y": 3
         }
       },
       {
@@ -60,8 +60,8 @@
         "entity_number": 7,
         "name": "straight-rail",
         "position": {
-          "x": -191,
-          "y": -557
+          "x": -33,
+          "y": 3
         }
       },
       {
@@ -69,8 +69,8 @@
         "entity_number": 8,
         "name": "straight-rail",
         "position": {
-          "x": -189,
-          "y": -557
+          "x": -31,
+          "y": 3
         }
       },
       {
@@ -78,8 +78,8 @@
         "entity_number": 9,
         "name": "straight-rail",
         "position": {
-          "x": -187,
-          "y": -557
+          "x": -29,
+          "y": 3
         }
       },
       {
@@ -87,8 +87,8 @@
         "entity_number": 10,
         "name": "straight-rail",
         "position": {
-          "x": -185,
-          "y": -557
+          "x": -27,
+          "y": 3
         }
       },
       {
@@ -96,8 +96,8 @@
         "entity_number": 11,
         "name": "straight-rail",
         "position": {
-          "x": -183,
-          "y": -557
+          "x": -25,
+          "y": 3
         }
       },
       {
@@ -105,8 +105,8 @@
         "entity_number": 12,
         "name": "straight-rail",
         "position": {
-          "x": -181,
-          "y": -557
+          "x": -23,
+          "y": 3
         }
       },
       {
@@ -114,8 +114,8 @@
         "entity_number": 13,
         "name": "straight-rail",
         "position": {
-          "x": -179,
-          "y": -557
+          "x": -21,
+          "y": 3
         }
       },
       {
@@ -123,8 +123,8 @@
         "entity_number": 14,
         "name": "straight-rail",
         "position": {
-          "x": -177,
-          "y": -557
+          "x": -19,
+          "y": 3
         }
       },
       {
@@ -132,8 +132,8 @@
         "entity_number": 15,
         "name": "straight-rail",
         "position": {
-          "x": -175,
-          "y": -557
+          "x": -17,
+          "y": 3
         }
       },
       {
@@ -141,8 +141,8 @@
         "entity_number": 16,
         "name": "straight-rail",
         "position": {
-          "x": -173,
-          "y": -557
+          "x": -15,
+          "y": 3
         }
       },
       {
@@ -150,8 +150,8 @@
         "entity_number": 17,
         "name": "straight-rail",
         "position": {
-          "x": -171,
-          "y": -557
+          "x": -13,
+          "y": 3
         }
       },
       {
@@ -159,8 +159,8 @@
         "entity_number": 18,
         "name": "straight-rail",
         "position": {
-          "x": -169,
-          "y": -557
+          "x": -11,
+          "y": 3
         }
       },
       {
@@ -168,8 +168,8 @@
         "entity_number": 19,
         "name": "straight-rail",
         "position": {
-          "x": -167,
-          "y": -557
+          "x": -9,
+          "y": 3
         }
       },
       {
@@ -177,8 +177,8 @@
         "entity_number": 20,
         "name": "straight-rail",
         "position": {
-          "x": -165,
-          "y": -557
+          "x": -7,
+          "y": 3
         }
       },
       {
@@ -186,8 +186,8 @@
         "entity_number": 21,
         "name": "straight-rail",
         "position": {
-          "x": -163,
-          "y": -557
+          "x": -5,
+          "y": 3
         }
       },
       {
@@ -195,8 +195,8 @@
         "entity_number": 22,
         "name": "straight-rail",
         "position": {
-          "x": -161,
-          "y": -557
+          "x": -3,
+          "y": 3
         }
       },
       {
@@ -204,8 +204,8 @@
         "entity_number": 23,
         "name": "straight-rail",
         "position": {
-          "x": -159,
-          "y": -557
+          "x": -1,
+          "y": 3
         }
       },
       {
@@ -213,8 +213,8 @@
         "entity_number": 24,
         "name": "straight-rail",
         "position": {
-          "x": -157,
-          "y": -557
+          "x": 1,
+          "y": 3
         }
       },
       {
@@ -222,8 +222,8 @@
         "entity_number": 25,
         "name": "straight-rail",
         "position": {
-          "x": -155,
-          "y": -557
+          "x": 3,
+          "y": 3
         }
       },
       {
@@ -231,8 +231,8 @@
         "entity_number": 26,
         "name": "curved-rail-a",
         "position": {
-          "x": -154,
-          "y": -557
+          "x": 4,
+          "y": 3
         }
       },
       {
@@ -240,8 +240,8 @@
         "entity_number": 27,
         "name": "straight-rail",
         "position": {
-          "x": -153,
-          "y": -557
+          "x": 5,
+          "y": 3
         }
       },
       {
@@ -249,8 +249,8 @@
         "entity_number": 28,
         "name": "straight-rail",
         "position": {
-          "x": -151,
-          "y": -557
+          "x": 7,
+          "y": 3
         }
       },
       {
@@ -258,8 +258,8 @@
         "entity_number": 29,
         "name": "straight-rail",
         "position": {
-          "x": -149,
-          "y": -557
+          "x": 9,
+          "y": 3
         }
       },
       {
@@ -267,8 +267,8 @@
         "entity_number": 30,
         "name": "straight-rail",
         "position": {
-          "x": -147,
-          "y": -557
+          "x": 11,
+          "y": 3
         }
       },
       {
@@ -276,8 +276,8 @@
         "entity_number": 31,
         "name": "straight-rail",
         "position": {
-          "x": -145,
-          "y": -557
+          "x": 13,
+          "y": 3
         }
       },
       {
@@ -285,8 +285,8 @@
         "entity_number": 32,
         "name": "straight-rail",
         "position": {
-          "x": -143,
-          "y": -557
+          "x": 15,
+          "y": 3
         }
       },
       {
@@ -294,8 +294,8 @@
         "entity_number": 33,
         "name": "straight-rail",
         "position": {
-          "x": -141,
-          "y": -557
+          "x": 17,
+          "y": 3
         }
       },
       {
@@ -303,8 +303,8 @@
         "entity_number": 34,
         "name": "straight-rail",
         "position": {
-          "x": -139,
-          "y": -557
+          "x": 19,
+          "y": 3
         }
       },
       {
@@ -312,8 +312,8 @@
         "entity_number": 35,
         "name": "straight-rail",
         "position": {
-          "x": -137,
-          "y": -557
+          "x": 21,
+          "y": 3
         }
       },
       {
@@ -321,8 +321,8 @@
         "entity_number": 36,
         "name": "straight-rail",
         "position": {
-          "x": -135,
-          "y": -557
+          "x": 23,
+          "y": 3
         }
       },
       {
@@ -330,8 +330,8 @@
         "entity_number": 37,
         "name": "straight-rail",
         "position": {
-          "x": -133,
-          "y": -557
+          "x": 25,
+          "y": 3
         }
       },
       {
@@ -339,8 +339,8 @@
         "entity_number": 38,
         "name": "straight-rail",
         "position": {
-          "x": -131,
-          "y": -557
+          "x": 27,
+          "y": 3
         }
       },
       {
@@ -348,8 +348,8 @@
         "entity_number": 39,
         "name": "straight-rail",
         "position": {
-          "x": -129,
-          "y": -557
+          "x": 29,
+          "y": 3
         }
       },
       {
@@ -357,8 +357,8 @@
         "entity_number": 40,
         "name": "straight-rail",
         "position": {
-          "x": -127,
-          "y": -557
+          "x": 31,
+          "y": 3
         }
       },
       {
@@ -366,8 +366,8 @@
         "entity_number": 41,
         "name": "straight-rail",
         "position": {
-          "x": -125,
-          "y": -557
+          "x": 33,
+          "y": 3
         }
       },
       {
@@ -375,8 +375,8 @@
         "entity_number": 42,
         "name": "straight-rail",
         "position": {
-          "x": -123,
-          "y": -557
+          "x": 35,
+          "y": 3
         }
       },
       {
@@ -384,8 +384,8 @@
         "entity_number": 43,
         "name": "straight-rail",
         "position": {
-          "x": -121,
-          "y": -557
+          "x": 37,
+          "y": 3
         }
       },
       {
@@ -393,8 +393,8 @@
         "entity_number": 44,
         "name": "straight-rail",
         "position": {
-          "x": -119,
-          "y": -557
+          "x": 39,
+          "y": 3
         }
       },
       {
@@ -402,8 +402,8 @@
         "entity_number": 45,
         "name": "straight-rail",
         "position": {
-          "x": -117,
-          "y": -557
+          "x": 41,
+          "y": 3
         }
       },
       {
@@ -411,8 +411,8 @@
         "entity_number": 46,
         "name": "straight-rail",
         "position": {
-          "x": -115,
-          "y": -557
+          "x": 43,
+          "y": 3
         }
       },
       {
@@ -420,8 +420,8 @@
         "entity_number": 47,
         "name": "straight-rail",
         "position": {
-          "x": -113,
-          "y": -557
+          "x": 45,
+          "y": 3
         }
       },
       {
@@ -429,8 +429,8 @@
         "entity_number": 48,
         "name": "straight-rail",
         "position": {
-          "x": -111,
-          "y": -557
+          "x": 47,
+          "y": 3
         }
       },
       {
@@ -438,8 +438,8 @@
         "entity_number": 49,
         "name": "curved-rail-a",
         "position": {
-          "x": -112,
-          "y": -557
+          "x": 46,
+          "y": 3
         }
       },
       {
@@ -447,8 +447,8 @@
         "entity_number": 50,
         "name": "rail-chain-signal",
         "position": {
-          "x": -204.5,
-          "y": -554.5
+          "x": -46.5,
+          "y": 5.5
         }
       },
       {
@@ -456,8 +456,8 @@
         "entity_number": 51,
         "name": "half-diagonal-rail",
         "position": {
-          "x": -201,
-          "y": -555
+          "x": -43,
+          "y": 5
         }
       },
       {
@@ -465,8 +465,8 @@
         "entity_number": 52,
         "name": "rail-chain-signal",
         "position": {
-          "x": -162.5,
-          "y": -554.5
+          "x": -4.5,
+          "y": 5.5
         }
       },
       {
@@ -474,8 +474,8 @@
         "entity_number": 53,
         "name": "half-diagonal-rail",
         "position": {
-          "x": -159,
-          "y": -555
+          "x": -1,
+          "y": 5
         }
       },
       {
@@ -483,8 +483,8 @@
         "entity_number": 54,
         "name": "rail-chain-signal",
         "position": {
-          "x": -120.5,
-          "y": -554.5
+          "x": 37.5,
+          "y": 5.5
         }
       },
       {
@@ -492,8 +492,8 @@
         "entity_number": 55,
         "name": "half-diagonal-rail",
         "position": {
-          "x": -117,
-          "y": -555
+          "x": 41,
+          "y": 5
         }
       },
       {
@@ -501,8 +501,8 @@
         "entity_number": 56,
         "name": "curved-rail-a",
         "position": {
-          "x": -206,
-          "y": -553
+          "x": -48,
+          "y": 7
         }
       },
       {
@@ -510,8 +510,8 @@
         "entity_number": 57,
         "name": "straight-rail",
         "position": {
-          "x": -205,
-          "y": -553
+          "x": -47,
+          "y": 7
         }
       },
       {
@@ -519,8 +519,8 @@
         "entity_number": 58,
         "name": "straight-rail",
         "position": {
-          "x": -203,
-          "y": -553
+          "x": -45,
+          "y": 7
         }
       },
       {
@@ -528,8 +528,8 @@
         "entity_number": 59,
         "name": "straight-rail",
         "position": {
-          "x": -201,
-          "y": -553
+          "x": -43,
+          "y": 7
         }
       },
       {
@@ -537,8 +537,8 @@
         "entity_number": 60,
         "name": "straight-rail",
         "position": {
-          "x": -199,
-          "y": -553
+          "x": -41,
+          "y": 7
         }
       },
       {
@@ -546,8 +546,8 @@
         "entity_number": 61,
         "name": "straight-rail",
         "position": {
-          "x": -197,
-          "y": -553
+          "x": -39,
+          "y": 7
         }
       },
       {
@@ -555,8 +555,8 @@
         "entity_number": 62,
         "name": "straight-rail",
         "position": {
-          "x": -195,
-          "y": -553
+          "x": -37,
+          "y": 7
         }
       },
       {
@@ -564,8 +564,8 @@
         "entity_number": 63,
         "name": "straight-rail",
         "position": {
-          "x": -193,
-          "y": -553
+          "x": -35,
+          "y": 7
         }
       },
       {
@@ -573,8 +573,8 @@
         "entity_number": 64,
         "name": "straight-rail",
         "position": {
-          "x": -191,
-          "y": -553
+          "x": -33,
+          "y": 7
         }
       },
       {
@@ -582,8 +582,8 @@
         "entity_number": 65,
         "name": "straight-rail",
         "position": {
-          "x": -189,
-          "y": -553
+          "x": -31,
+          "y": 7
         }
       },
       {
@@ -591,8 +591,8 @@
         "entity_number": 66,
         "name": "straight-rail",
         "position": {
-          "x": -187,
-          "y": -553
+          "x": -29,
+          "y": 7
         }
       },
       {
@@ -600,8 +600,8 @@
         "entity_number": 67,
         "name": "straight-rail",
         "position": {
-          "x": -185,
-          "y": -553
+          "x": -27,
+          "y": 7
         }
       },
       {
@@ -609,8 +609,8 @@
         "entity_number": 68,
         "name": "straight-rail",
         "position": {
-          "x": -183,
-          "y": -553
+          "x": -25,
+          "y": 7
         }
       },
       {
@@ -618,8 +618,8 @@
         "entity_number": 69,
         "name": "straight-rail",
         "position": {
-          "x": -181,
-          "y": -553
+          "x": -23,
+          "y": 7
         }
       },
       {
@@ -627,8 +627,8 @@
         "entity_number": 70,
         "name": "straight-rail",
         "position": {
-          "x": -179,
-          "y": -553
+          "x": -21,
+          "y": 7
         }
       },
       {
@@ -636,8 +636,8 @@
         "entity_number": 71,
         "name": "straight-rail",
         "position": {
-          "x": -177,
-          "y": -553
+          "x": -19,
+          "y": 7
         }
       },
       {
@@ -645,8 +645,8 @@
         "entity_number": 72,
         "name": "straight-rail",
         "position": {
-          "x": -175,
-          "y": -553
+          "x": -17,
+          "y": 7
         }
       },
       {
@@ -654,8 +654,8 @@
         "entity_number": 73,
         "name": "straight-rail",
         "position": {
-          "x": -173,
-          "y": -553
+          "x": -15,
+          "y": 7
         }
       },
       {
@@ -663,8 +663,8 @@
         "entity_number": 74,
         "name": "straight-rail",
         "position": {
-          "x": -171,
-          "y": -553
+          "x": -13,
+          "y": 7
         }
       },
       {
@@ -672,8 +672,8 @@
         "entity_number": 75,
         "name": "straight-rail",
         "position": {
-          "x": -169,
-          "y": -553
+          "x": -11,
+          "y": 7
         }
       },
       {
@@ -681,8 +681,8 @@
         "entity_number": 76,
         "name": "straight-rail",
         "position": {
-          "x": -167,
-          "y": -553
+          "x": -9,
+          "y": 7
         }
       },
       {
@@ -690,8 +690,8 @@
         "entity_number": 77,
         "name": "curved-rail-a",
         "position": {
-          "x": -164,
-          "y": -553
+          "x": -6,
+          "y": 7
         }
       },
       {
@@ -699,8 +699,8 @@
         "entity_number": 78,
         "name": "straight-rail",
         "position": {
-          "x": -163,
-          "y": -553
+          "x": -5,
+          "y": 7
         }
       },
       {
@@ -708,8 +708,8 @@
         "entity_number": 79,
         "name": "straight-rail",
         "position": {
-          "x": -161,
-          "y": -553
+          "x": -3,
+          "y": 7
         }
       },
       {
@@ -717,8 +717,8 @@
         "entity_number": 80,
         "name": "straight-rail",
         "position": {
-          "x": -159,
-          "y": -553
+          "x": -1,
+          "y": 7
         }
       },
       {
@@ -726,8 +726,8 @@
         "entity_number": 81,
         "name": "straight-rail",
         "position": {
-          "x": -157,
-          "y": -553
+          "x": 1,
+          "y": 7
         }
       },
       {
@@ -735,8 +735,8 @@
         "entity_number": 82,
         "name": "straight-rail",
         "position": {
-          "x": -155,
-          "y": -553
+          "x": 3,
+          "y": 7
         }
       },
       {
@@ -744,8 +744,8 @@
         "entity_number": 83,
         "name": "straight-rail",
         "position": {
-          "x": -153,
-          "y": -553
+          "x": 5,
+          "y": 7
         }
       },
       {
@@ -753,8 +753,8 @@
         "entity_number": 84,
         "name": "straight-rail",
         "position": {
-          "x": -151,
-          "y": -553
+          "x": 7,
+          "y": 7
         }
       },
       {
@@ -762,8 +762,8 @@
         "entity_number": 85,
         "name": "straight-rail",
         "position": {
-          "x": -149,
-          "y": -553
+          "x": 9,
+          "y": 7
         }
       },
       {
@@ -771,8 +771,8 @@
         "entity_number": 86,
         "name": "straight-rail",
         "position": {
-          "x": -147,
-          "y": -553
+          "x": 11,
+          "y": 7
         }
       },
       {
@@ -780,8 +780,8 @@
         "entity_number": 87,
         "name": "straight-rail",
         "position": {
-          "x": -145,
-          "y": -553
+          "x": 13,
+          "y": 7
         }
       },
       {
@@ -789,8 +789,8 @@
         "entity_number": 88,
         "name": "straight-rail",
         "position": {
-          "x": -143,
-          "y": -553
+          "x": 15,
+          "y": 7
         }
       },
       {
@@ -798,8 +798,8 @@
         "entity_number": 89,
         "name": "straight-rail",
         "position": {
-          "x": -141,
-          "y": -553
+          "x": 17,
+          "y": 7
         }
       },
       {
@@ -807,8 +807,8 @@
         "entity_number": 90,
         "name": "straight-rail",
         "position": {
-          "x": -139,
-          "y": -553
+          "x": 19,
+          "y": 7
         }
       },
       {
@@ -816,8 +816,8 @@
         "entity_number": 91,
         "name": "straight-rail",
         "position": {
-          "x": -137,
-          "y": -553
+          "x": 21,
+          "y": 7
         }
       },
       {
@@ -825,8 +825,8 @@
         "entity_number": 92,
         "name": "straight-rail",
         "position": {
-          "x": -135,
-          "y": -553
+          "x": 23,
+          "y": 7
         }
       },
       {
@@ -834,8 +834,8 @@
         "entity_number": 93,
         "name": "straight-rail",
         "position": {
-          "x": -133,
-          "y": -553
+          "x": 25,
+          "y": 7
         }
       },
       {
@@ -843,8 +843,8 @@
         "entity_number": 94,
         "name": "straight-rail",
         "position": {
-          "x": -131,
-          "y": -553
+          "x": 27,
+          "y": 7
         }
       },
       {
@@ -852,8 +852,8 @@
         "entity_number": 95,
         "name": "straight-rail",
         "position": {
-          "x": -129,
-          "y": -553
+          "x": 29,
+          "y": 7
         }
       },
       {
@@ -861,8 +861,8 @@
         "entity_number": 96,
         "name": "straight-rail",
         "position": {
-          "x": -127,
-          "y": -553
+          "x": 31,
+          "y": 7
         }
       },
       {
@@ -870,8 +870,8 @@
         "entity_number": 97,
         "name": "straight-rail",
         "position": {
-          "x": -125,
-          "y": -553
+          "x": 33,
+          "y": 7
         }
       },
       {
@@ -879,8 +879,8 @@
         "entity_number": 98,
         "name": "curved-rail-a",
         "position": {
-          "x": -122,
-          "y": -553
+          "x": 36,
+          "y": 7
         }
       }
     ],
@@ -894,6 +894,10 @@
     ],
     "item": "blueprint",
     "label": "slip-upper",
+    "snap-to-grid": {
+      "x": 42,
+      "y": 8
+    },
     "version": 562949957353472
   },
   "index": 24
