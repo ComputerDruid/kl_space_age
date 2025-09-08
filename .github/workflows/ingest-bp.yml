@@ -33,4 +33,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Install factorio-bp-helper
         run: |
-          curl --proto '=https' --tlsv1.2 -LsSf https://github.com/ComputerDruid/factorio-bp-helper/releases/download/latest/factorio-bp-helper-installer.sh | sh
+          curl --proto '=https' --tlsv1.2 -LsSf https://github.com/ComputerDruid/factorio-bp-helper/releases/latest/download/factorio-bp-helper-installer.sh | sh
